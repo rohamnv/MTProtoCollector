@@ -4,12 +4,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "iau-mahabad.ac.ir.pezhvaktadbir.com.sm-kheradmand.com.tortorak.ir.pejvakshop.ir.abtinfurniture.ir.sinasemi.com.javidtrading.com.aclinic.ir.sibclinics.com.ezexpert.ir.csirtpro.ir.fixhm.ir.drhost.info.virastary.ir.rata.ir.babyhousemashhad.ir.faezeh.makeup.",
-            "port": "443",
-            "secret": "eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972",
-            "name": "@ProxyMTProto|\ud83c\uddee\ud83c\uddea"
+            "server": "PROXY.NAB.BENZ-PORCSHE.IR.8443-benz-amg.com-David.Com.Ir.Pasargad.tk-gq.xyz-ml-Tk.co.Uk.ibm-kasi.co.uk.",
+            "port": "7443",
+            "secret": "AAAAAAAAAAAAAAAAAAAAACQ=",
+            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=iau-mahabad.ac.ir.pezhvaktadbir.com.sm-kheradmand.com.tortorak.ir.pejvakshop.ir.abtinfurniture.ir.sinasemi.com.javidtrading.com.aclinic.ir.sibclinics.com.ezexpert.ir.csirtpro.ir.fixhm.ir.drhost.info.virastary.ir.rata.ir.babyhousemashhad.ir.faezeh.makeup.&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@ProxyMTProto|\ud83c\uddee\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=PROXY.NAB.BENZ-PORCSHE.IR.8443-benz-amg.com-David.Com.Ir.Pasargad.tk-gq.xyz-ml-Tk.co.Uk.ibm-kasi.co.uk.&port=7443&secret=AAAAAAAAAAAAAAAAAAAAACQ=&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -52,12 +52,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "uoyfdydpuc.co.uk",
+            "port": "123",
+            "secret": "ee1603010200010001fc030386e24c3add6d792e6d792e6d792e6d79",
+            "name": "@MTP_roto|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=uoyfdydpuc.co.uk&port=123&secret=ee1603010200010001fc030386e24c3add6d792e6d792e6d792e6d79&@MTP_roto|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "194.120.230.201",
             "port": "440",
             "secret": "FgMBAgABAAH8AwOG4kw63Q==",
-            "name": "@ProxyDaemi|\ud83c\uddeb\ud83c\uddf7"
+            "name": "@ProxyHagh|\ud83c\uddeb\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=194.120.230.201&port=440&secret=FgMBAgABAAH8AwOG4kw63Q==&@ProxyDaemi|\ud83c\uddeb\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=194.120.230.201&port=440&secret=FgMBAgABAAH8AwOG4kw63Q==&@ProxyHagh|\ud83c\uddeb\ud83c\uddf7"
     },
     {
         "scheme": "https",

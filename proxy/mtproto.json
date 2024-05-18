@@ -76,18 +76,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "lotusib.ir.chaptak.ir.boomiro.ir.idehno.com.kareirani.ir.bahmangroup.com.hivard.ir.gamefam.ir.solar-group.ir.majedalkazemi.com.sahabdanesh.ir.electrofat.com.darktrench.ir.ahvaz.ir.47kala.com.atiehags.com.tarrahaneyazd.ir.empirmarket.ir.hosseinishop.info",
-            "port": "443",
-            "secret": "eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972",
-            "name": "@MTP_roto|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=lotusib.ir.chaptak.ir.boomiro.ir.idehno.com.kareirani.ir.bahmangroup.com.hivard.ir.gamefam.ir.solar-group.ir.majedalkazemi.com.sahabdanesh.ir.electrofat.com.darktrench.ir.ahvaz.ir.47kala.com.atiehags.com.tarrahaneyazd.ir.empirmarket.ir.hosseinishop.info&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@MTP_roto|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "oomm-are.rubika-iir.co.uk.",
             "port": "443",
             "secret": "ee1603010200010001fc030386e24c3add7374617469632e666172616b61762e636f6d",

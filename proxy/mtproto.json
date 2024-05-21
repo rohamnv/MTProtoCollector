@@ -7,9 +7,33 @@
             "server": "nofilte1r.com.",
             "port": "4443",
             "secret": "FgMBAgABAAH8AwOG4kw63Q",
-            "name": "@TelMTProto|\ud83c\uddec\ud83c\uddf7"
+            "name": "@MTP_roto|\ud83c\uddec\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=nofilte1r.com.&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q&@TelMTProto|\ud83c\uddec\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=nofilte1r.com.&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q&@MTP_roto|\ud83c\uddec\ud83c\uddf7"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "103.69.224.65",
+            "port": "120",
+            "secret": "FgMBAgABAAH8AwOG4kw63Q==",
+            "name": "@proxyhubs|\ud83c\uddfa\ud83c\uddf8"
+        },
+        "link": "https:\/\/t.me\/proxy?server=103.69.224.65&port=120&secret=FgMBAgABAAH8AwOG4kw63Q==&@proxyhubs|\ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "jebco.ir.sasha-kids.ir.farzanshop.ir.bornapardaz.n_et.perfumeonline.ir.pmcgroup.ir.zayanderoodcrc.com.powermta.ir.beitolmahdi.org.iauabdanan.ac.ir.pag-co.com.asemanlian.com.comp_arecrm.ir.markeiran.ir.wfkbf.org.neghabcity.ir.aamelec.com.keetabforosh.sbs.",
+            "port": "443",
+            "secret": "3dpBFlW2hP6Hq_WOwiNeKBY=",
+            "name": "@ProxyDaemi|\ud83c\uddeb\ud83c\uddf7"
+        },
+        "link": "https:\/\/t.me\/proxy?server=jebco.ir.sasha-kids.ir.farzanshop.ir.bornapardaz.n_et.perfumeonline.ir.pmcgroup.ir.zayanderoodcrc.com.powermta.ir.beitolmahdi.org.iauabdanan.ac.ir.pag-co.com.asemanlian.com.comp_arecrm.ir.markeiran.ir.wfkbf.org.neghabcity.ir.aamelec.com.keetabforosh.sbs.&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=&@ProxyDaemi|\ud83c\uddeb\ud83c\uddf7"
     },
     {
         "scheme": "https",

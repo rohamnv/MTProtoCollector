@@ -4,24 +4,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "50.7.85.219",
-            "port": "443",
-            "secret": "ee1603010200010001fc030386e24c3add646f636b65722d6d6972726f722e6f7267",
-            "name": "@PinkProxy|\ud83c\udde9\ud83c\uddea"
+            "server": "nofilte1r.com.",
+            "port": "4443",
+            "secret": "FgMBAgABAAH8AwOG4kw63Q",
+            "name": "@TelMTProto|\ud83c\uddec\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=50.7.85.219&port=443&secret=ee1603010200010001fc030386e24c3add646f636b65722d6d6972726f722e6f7267&@PinkProxy|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "50.7.85.220",
-            "port": "443",
-            "secret": "ee1603010200010001fc030386e24c3add646f636b65722d6d6972726f722e6f7267",
-            "name": "@PinkProxy|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=50.7.85.220&port=443&secret=ee1603010200010001fc030386e24c3add646f636b65722d6d6972726f722e6f7267&@PinkProxy|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=nofilte1r.com.&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q&@TelMTProto|\ud83c\uddec\ud83c\uddf7"
     },
     {
         "scheme": "https",

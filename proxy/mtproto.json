@@ -4,36 +4,36 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "103.69.224.116",
-            "port": "125",
-            "secret": "FgMBAgABAAH8AwOG4kw63Q==",
-            "name": "@Lion_MTProto|\ud83c\uddfa\ud83c\uddf8"
-        },
-        "link": "https:\/\/t.me\/proxy?server=103.69.224.116&port=125&secret=FgMBAgABAAH8AwOG4kw63Q==&@Lion_MTProto|\ud83c\uddfa\ud83c\uddf8"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "imatrd.com.airpocket.ir.drsamirapartabi.com.shahabedalatian.com.puadhesive.ir.4seasoniran.com.hiraclinic.ir.shahrazma.ir.bamagol.ir.alirezasalimii.com.tabiateno.com.persian-gas.ir.ranginehnaghsh.ir.medisib.com.iranmehraz.ir.digitalshatelsimcards.website",
+            "server": "nobify.org.ir-line.info.",
             "port": "443",
-            "secret": "3dpBFlW2hP6Hq_WOwiNeKBY=",
-            "name": "@Lion_MTProto|\ud83c\uddfa\ud83c\uddf8"
-        },
-        "link": "https:\/\/t.me\/proxy?server=imatrd.com.airpocket.ir.drsamirapartabi.com.shahabedalatian.com.puadhesive.ir.4seasoniran.com.hiraclinic.ir.shahrazma.ir.bamagol.ir.alirezasalimii.com.tabiateno.com.persian-gas.ir.ranginehnaghsh.ir.medisib.com.iranmehraz.ir.digitalshatelsimcards.website&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=&@Lion_MTProto|\ud83c\uddfa\ud83c\uddf8"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "ahvaz.ir.farsportal.com.misbehaving.ir.g-oldwaretech.ir.moeinsupport.ir.surfiran.ir.alavi-bonyad.com.faraabini.ir.gooyasms.com.pishrofonun.com.mediamanag-er.ir.atn.co.ir.moojekhabar.ir.lachinan.ir.toochin.ir.moeinsupport.ir.digitalshatelsimcards.website",
-            "port": "443",
-            "secret": "3dpBFlW2hP6Hq_WOwiNeKBY=",
+            "secret": "7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw==",
             "name": "@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=ahvaz.ir.farsportal.com.misbehaving.ir.g-oldwaretech.ir.moeinsupport.ir.surfiran.ir.alavi-bonyad.com.faraabini.ir.gooyasms.com.pishrofonun.com.mediamanag-er.ir.atn.co.ir.moojekhabar.ir.lachinan.ir.toochin.ir.moeinsupport.ir.digitalshatelsimcards.website&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=&@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=nobify.org.ir-line.info.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw==&@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "50.7.85.218",
+            "port": "443",
+            "secret": "ee1603010200010001fc030386e24c3add6c696e75782d70726f2e6f7267",
+            "name": "@TelMTProto|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=50.7.85.218&port=443&secret=ee1603010200010001fc030386e24c3add6c696e75782d70726f2e6f7267&@TelMTProto|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "103.69.224.94",
+            "port": "150",
+            "secret": "FgMBAgABAAH8AwOG4kw63Q==",
+            "name": "@MTP_roto|\ud83c\uddfa\ud83c\uddf8"
+        },
+        "link": "https:\/\/t.me\/proxy?server=103.69.224.94&port=150&secret=FgMBAgABAAH8AwOG4kw63Q==&@MTP_roto|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",

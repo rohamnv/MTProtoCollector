@@ -16,24 +16,48 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "ashyan-gostar.com.zikapayamak.ir.30t-ax.ir.milad-mahdavi.ir.118host.com.jsfilter.ir.chargepay.ir.btobcoin.com.tacnogas.ir.creditcenter.ir.lavazemdavari.ir.parse--hnetwork.net.tabarestan.co.tebcard.ir.turcamobilya.com.dndsms.ir.taaknetnewinternet.website",
+            "server": "cloudflare.nokia.net.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sud.again_to_fight.everyone.i_am.the_interne.mizan-online.help.",
             "port": "443",
-            "secret": "3dpBFlW2hP6Hq_WOwiNeKBY=",
+            "secret": "7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw==",
             "name": "@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=ashyan-gostar.com.zikapayamak.ir.30t-ax.ir.milad-mahdavi.ir.118host.com.jsfilter.ir.chargepay.ir.btobcoin.com.tacnogas.ir.creditcenter.ir.lavazemdavari.ir.parse--hnetwork.net.tabarestan.co.tebcard.ir.turcamobilya.com.dndsms.ir.taaknetnewinternet.website&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=&@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=cloudflare.nokia.net.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sud.again_to_fight.everyone.i_am.the_interne.mizan-online.help.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw==&@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "bfn.ir.e-bl.ir.vastaco.ir.akros.ir.iran-iancenter.ir.dabestanmola.ir.sinovision.ir.nibmarket.com.parvazhomay.com.qazviniec.ir.atra-med.com.pooyagam.ir.khand-am.ir.injayadbe-gir.ir.absalkala.com.h-e-z-armasooleh.ir.dibigram.com.ayhanmobilecompany.website",
-            "port": "443",
-            "secret": "eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972",
-            "name": "@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
+            "server": "Web.cloudflare.com.www.gmail.com.vordok.sbs",
+            "port": "1919",
+            "secret": "7HQighJPBNMYVRNB6tdkVw",
+            "name": "@Myporoxy|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=bfn.ir.e-bl.ir.vastaco.ir.akros.ir.iran-iancenter.ir.dabestanmola.ir.sinovision.ir.nibmarket.com.parvazhomay.com.qazviniec.ir.atra-med.com.pooyagam.ir.khand-am.ir.injayadbe-gir.ir.absalkala.com.h-e-z-armasooleh.ir.dibigram.com.ayhanmobilecompany.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=Web.cloudflare.com.www.gmail.com.vordok.sbs&port=1919&secret=7HQighJPBNMYVRNB6tdkVw&@Myporoxy|\ud83c\uddf3\ud83c\uddf1"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "Dash.Cloudflare.com.www.google.com.hercoll.pw",
+            "port": "1919",
+            "secret": "7HQighJPBNMYVRNB6tdkVw",
+            "name": "@Myporoxy|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=Dash.Cloudflare.com.www.google.com.hercoll.pw&port=1919&secret=7HQighJPBNMYVRNB6tdkVw&@Myporoxy|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "rayanil.ir.merusiran.com.dumbbell.ir.generalfel-ez.com.parsa-lustre.ir.ifi.qa.rojyar.org.beyhaghro-shd.com.webpand.ir.tirest-ore.ir.theat-erforum.ir.timche.net.bar-berkala.ir.learnix.ir.giumall.com.yahyatavakoli.ir.payandan.ir.ayhanmobilecompany.website",
+            "port": "443",
+            "secret": "3dpBFlW2hP6Hq_WOwiNeKBY=",
+            "name": "@MTP_roto|\ud83c\uddfa\ud83c\uddf8"
+        },
+        "link": "https:\/\/t.me\/proxy?server=rayanil.ir.merusiran.com.dumbbell.ir.generalfel-ez.com.parsa-lustre.ir.ifi.qa.rojyar.org.beyhaghro-shd.com.webpand.ir.tirest-ore.ir.theat-erforum.ir.timche.net.bar-berkala.ir.learnix.ir.giumall.com.yahyatavakoli.ir.payandan.ir.ayhanmobilecompany.website&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=&@MTP_roto|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",

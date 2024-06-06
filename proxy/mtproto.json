@@ -7,21 +7,45 @@
             "server": "Dash.Cloudflare.com.www.google.com.hercoll.pw",
             "port": "1919",
             "secret": "7HQighJPBNMYVRNB6tdkVw",
-            "name": "@Lion_MTProto|\ud83c\uddeb\ud83c\uddf7"
+            "name": "@Lion_MTProto|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=Dash.Cloudflare.com.www.google.com.hercoll.pw&port=1919&secret=7HQighJPBNMYVRNB6tdkVw&@Lion_MTProto|\ud83c\uddeb\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=Dash.Cloudflare.com.www.google.com.hercoll.pw&port=1919&secret=7HQighJPBNMYVRNB6tdkVw&@Lion_MTProto|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "Email.cloudflare.com.www.microsoft.com.shanghay.cfd",
+            "server": "cloudflare.sarpoosh_com.mehrpatogh.com.seemorgh.com.cloob_com.tci.ir.radiofarda.com.salamcinama_com.sahamyab.com.darmanito_com.etemadonline.com.rokna.net.ayandehnews.org.justdoing.business.",
+            "port": "443",
+            "secret": "eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972",
+            "name": "@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
+        },
+        "link": "https:\/\/t.me\/proxy?server=cloudflare.sarpoosh_com.mehrpatogh.com.seemorgh.com.cloob_com.tci.ir.radiofarda.com.salamcinama_com.sahamyab.com.darmanito_com.etemadonline.com.rokna.net.ayandehnews.org.justdoing.business.&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "niknami.ir.site-view.ir.baran20.ir.98911.ir.shirazrobot.ir.gowdiny.ir.golabetun.ir.saf-fat.ir.shiasearch.ir.tiarasoft.ir.4uvs.ir.na-zkala.ir.etkfz.com.nirastudio.net.karyabi-anaj.ir.palizfoam.com.tamasonline.ir.hyundaiiran.com.taaknetnewinternet.website",
+            "port": "443",
+            "secret": "3dpBFlW2hP6Hq_WOwiNeKBY=",
+            "name": "@ProxyMTProto|\ud83c\uddee\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=niknami.ir.site-view.ir.baran20.ir.98911.ir.shirazrobot.ir.gowdiny.ir.golabetun.ir.saf-fat.ir.shiasearch.ir.tiarasoft.ir.4uvs.ir.na-zkala.ir.etkfz.com.nirastudio.net.karyabi-anaj.ir.palizfoam.com.tamasonline.ir.hyundaiiran.com.taaknetnewinternet.website&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=&@ProxyMTProto|\ud83c\uddee\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "Site.cloudflare.com.www.play.com.dorkamos.baby",
             "port": "1919",
             "secret": "7HQighJPBNMYVRNB6tdkVw",
-            "name": "@Myporoxy|\ud83c\udde9\ud83c\uddea"
+            "name": "@Myporoxy|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=Email.cloudflare.com.www.microsoft.com.shanghay.cfd&port=1919&secret=7HQighJPBNMYVRNB6tdkVw&@Myporoxy|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=Site.cloudflare.com.www.play.com.dorkamos.baby&port=1919&secret=7HQighJPBNMYVRNB6tdkVw&@Myporoxy|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",

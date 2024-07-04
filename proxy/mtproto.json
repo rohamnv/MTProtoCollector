@@ -4,36 +4,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "gtr.hezarsh-mashal0.co.uk.kprjhxrrjhkrs-pkcj.co.uk.clsjhxrrjhkrs-pkcj.co.uk.rglhxrrjhkrs-pgcj.co.uk.tlshxrrjhkrs-pgcj.co.uk.tplhxrrjhkrs-sscj.co.uk.",
-            "port": "7443",
-            "secret": "FgMBAgABAAH8AwOG4kw63QBQ",
-            "name": "@Lion_MTProto|\ud83c\udde9\ud83c\uddea"
+            "server": "45.15.159.66",
+            "port": "1",
+            "secret": "ee100d65580c769f110f712c234c3141687777772e636c6f7564666c6172652e636f6d",
+            "name": "@YekoyekVpn|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=gtr.hezarsh-mashal0.co.uk.kprjhxrrjhkrs-pkcj.co.uk.clsjhxrrjhkrs-pkcj.co.uk.rglhxrrjhkrs-pgcj.co.uk.tlshxrrjhkrs-pgcj.co.uk.tplhxrrjhkrs-sscj.co.uk.&port=7443&secret=FgMBAgABAAH8AwOG4kw63QBQ&@Lion_MTProto|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=45.15.159.66&port=1&secret=ee100d65580c769f110f712c234c3141687777772e636c6f7564666c6172652e636f6d&@YekoyekVpn|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "wp4u.ir.drghadirian.ir.academyradin.com.iranbagua.ir.arminkamali.com.t-extudent.com.arm-in-aco.ir.brandeshoma.ir.nibmarket.net.iranhankooktire.ir.v-iki-rahna-ma.ir.sairus.ir.behp-adco.ir.shekambe.ir.attarisalam.com.sgrco.net.drpezishkianofficial.website",
-            "port": "443",
-            "secret": "eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972",
-            "name": "@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
+            "server": "89.110.87.86",
+            "port": "9443",
+            "secret": "EERighJJvXrFGRMCIMJdCQ",
+            "name": "@ProxyForOpeta|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=wp4u.ir.drghadirian.ir.academyradin.com.iranbagua.ir.arminkamali.com.t-extudent.com.arm-in-aco.ir.brandeshoma.ir.nibmarket.net.iranhankooktire.ir.v-iki-rahna-ma.ir.sairus.ir.behp-adco.ir.shekambe.ir.attarisalam.com.sgrco.net.drpezishkianofficial.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "shahrebadi.com.choob-yar.ir.2001travelagency.com.irandnn.ir.law-ir.ir.rmnp.ir.farabak.net.zirbana.com.persia-p-harmed.com.trx-i-ran.ir.pts-halal.ir.penha-nak.ir.mah-yarpm.com.xn--mgbb-1a8eaj.com.pooyagam.ir.premiumbond-co.ir.drpezishkianofficial.website",
-            "port": "443",
-            "secret": "3dpBFlW2hP6Hq_WOwiNeKBY=",
-            "name": "@ProxyMTProto|\ud83c\uddee\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=shahrebadi.com.choob-yar.ir.2001travelagency.com.irandnn.ir.law-ir.ir.rmnp.ir.farabak.net.zirbana.com.persia-p-harmed.com.trx-i-ran.ir.pts-halal.ir.penha-nak.ir.mah-yarpm.com.xn--mgbb-1a8eaj.com.pooyagam.ir.premiumbond-co.ir.drpezishkianofficial.website&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=&@ProxyMTProto|\ud83c\uddee\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=89.110.87.86&port=9443&secret=EERighJJvXrFGRMCIMJdCQ&@ProxyForOpeta|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",

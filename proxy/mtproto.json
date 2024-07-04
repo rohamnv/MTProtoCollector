@@ -16,12 +16,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "Cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.google.com.again_to_fight.everyone.i_am.the_internet.ghodratman.site",
-            "port": "6550",
-            "secret": "7HQighJPBNMYVRNB6tdkVwPQ",
-            "name": "@Myporoxy|\ud83c\udde9\ud83c\uddea"
+            "server": "wp4u.ir.drghadirian.ir.academyradin.com.iranbagua.ir.arminkamali.com.t-extudent.com.arm-in-aco.ir.brandeshoma.ir.nibmarket.net.iranhankooktire.ir.v-iki-rahna-ma.ir.sairus.ir.behp-adco.ir.shekambe.ir.attarisalam.com.sgrco.net.drpezishkianofficial.website",
+            "port": "443",
+            "secret": "eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972",
+            "name": "@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=Cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.google.com.again_to_fight.everyone.i_am.the_internet.ghodratman.site&port=6550&secret=7HQighJPBNMYVRNB6tdkVwPQ&@Myporoxy|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=wp4u.ir.drghadirian.ir.academyradin.com.iranbagua.ir.arminkamali.com.t-extudent.com.arm-in-aco.ir.brandeshoma.ir.nibmarket.net.iranhankooktire.ir.v-iki-rahna-ma.ir.sairus.ir.behp-adco.ir.shekambe.ir.attarisalam.com.sgrco.net.drpezishkianofficial.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "shahrebadi.com.choob-yar.ir.2001travelagency.com.irandnn.ir.law-ir.ir.rmnp.ir.farabak.net.zirbana.com.persia-p-harmed.com.trx-i-ran.ir.pts-halal.ir.penha-nak.ir.mah-yarpm.com.xn--mgbb-1a8eaj.com.pooyagam.ir.premiumbond-co.ir.drpezishkianofficial.website",
+            "port": "443",
+            "secret": "3dpBFlW2hP6Hq_WOwiNeKBY=",
+            "name": "@ProxyMTProto|\ud83c\uddee\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=shahrebadi.com.choob-yar.ir.2001travelagency.com.irandnn.ir.law-ir.ir.rmnp.ir.farabak.net.zirbana.com.persia-p-harmed.com.trx-i-ran.ir.pts-halal.ir.penha-nak.ir.mah-yarpm.com.xn--mgbb-1a8eaj.com.pooyagam.ir.premiumbond-co.ir.drpezishkianofficial.website&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=&@ProxyMTProto|\ud83c\uddee\ud83c\uddea"
     },
     {
         "scheme": "https",

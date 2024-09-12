@@ -16,6 +16,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "mujez.ir.drafshinrangavar.ir.attarisalam.com.beh-anpolymer.ir.firozeonline.ir.roshandeltile.com.pushaco.ir.afad.ir.narpad.com.iranbc.ir.mesbahmousavi.net.drbostanian.ir.dr-arjmand.ir.boomiro.com.esneed.com.mehremashregh.ir.100sabad.ir.coffedorehami.site",
+            "port": "443",
+            "secret": "3dpBFlW2hP6Hq_WOwiNeKBY=",
+            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=mujez.ir.drafshinrangavar.ir.attarisalam.com.beh-anpolymer.ir.firozeonline.ir.roshandeltile.com.pushaco.ir.afad.ir.narpad.com.iranbc.ir.mesbahmousavi.net.drbostanian.ir.dr-arjmand.ir.boomiro.com.esneed.com.mehremashregh.ir.100sabad.ir.coffedorehami.site&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.porublack-88.forum.",
             "port": "5777",
             "secret": "eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",

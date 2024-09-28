@@ -4,12 +4,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "23.88.51.230",
-            "port": "443",
-            "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
-            "name": "@GlypeX|\ud83c\udde9\ud83c\uddea"
+            "server": "www.kamcal.ir",
+            "port": "888",
+            "secret": "eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "name": "@Lion_MTProto|\ud83c\uddeb\ud83c\uddee"
         },
-        "link": "https:\/\/t.me\/proxy?server=23.88.51.230&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=www.kamcal.ir&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@Lion_MTProto|\ud83c\uddeb\ud83c\uddee"
     },
     {
         "scheme": "https",
@@ -28,12 +28,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "ov104-irnic.ir.apitherapy.ir.armnut.com.hezarmasooleh.ir.xn--tgbcg4gc.net.ebrahimsoltani.ir.boni-ran.ir.i-rsoal.com.arazpla-y-download.ir.attarisalam.com.p-ump-iran.com.asanbit.com.baba-shop.ir.setyanet.com.farabips.com.sotoudehoptic.com.mazanstore.shop",
+            "server": "saania.ir.go-lab.ir.ilhome.ir.j-iling.co.vakil-hamrah.com.dars-oketab.com.pey-keasansor.ir.topakhsh.com.khat-amtoos.ir.cartro-ubleshoot.ir.iketaab.com.zikapayamak.ir.frotel.com.apitherapy.ir.baharcloud.ir.partotabesh.ir.mehr-system.ir.torshakkade.online",
             "port": "443",
-            "secret": "3dpBFlW2hP6Hq_WOwiNeKBY=",
-            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+            "secret": "eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972",
+            "name": "@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=ov104-irnic.ir.apitherapy.ir.armnut.com.hezarmasooleh.ir.xn--tgbcg4gc.net.ebrahimsoltani.ir.boni-ran.ir.i-rsoal.com.arazpla-y-download.ir.attarisalam.com.p-ump-iran.com.asanbit.com.baba-shop.ir.setyanet.com.farabips.com.sotoudehoptic.com.mazanstore.shop&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=saania.ir.go-lab.ir.ilhome.ir.j-iling.co.vakil-hamrah.com.dars-oketab.com.pey-keasansor.ir.topakhsh.com.khat-amtoos.ir.cartro-ubleshoot.ir.iketaab.com.zikapayamak.ir.frotel.com.apitherapy.ir.baharcloud.ir.partotabesh.ir.mehr-system.ir.torshakkade.online&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
@@ -202,6 +202,18 @@
             "name": "@alephproxy|\ud83c\uddf3\ud83c\uddf1"
         },
         "link": "https:\/\/t.me\/proxy?server=152.42.130.39&port=443&secret=7kpbxhj57FOag7GCDhnKSn9zMy5hbWF6b25hd3MuY29t&@alephproxy|\ud83c\uddf3\ud83c\uddf1"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "152.42.133.79",
+            "port": "443",
+            "secret": "dd4a5bc618f9ec539a83b1820e19ca4a7f",
+            "name": "@alephproxy|\ud83c\uddf3\ud83c\uddf1"
+        },
+        "link": "https:\/\/t.me\/proxy?server=152.42.133.79&port=443&secret=dd4a5bc618f9ec539a83b1820e19ca4a7f&@alephproxy|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",

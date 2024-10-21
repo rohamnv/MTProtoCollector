@@ -67,9 +67,9 @@
             "server": "bahoosh.smartbtaa.info",
             "port": "443",
             "secret": "1603010200010001fc030386e24c3add",
-            "name": "@TelMTProto|\ud83c\uddea\ud83c\uddf8"
+            "name": "@TelMTProto|\ud83c\uddf8\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=bahoosh.smartbtaa.info&port=443&secret=1603010200010001fc030386e24c3add&@TelMTProto|\ud83c\uddea\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=bahoosh.smartbtaa.info&port=443&secret=1603010200010001fc030386e24c3add&@TelMTProto|\ud83c\uddf8\ud83c\uddea"
     },
     {
         "scheme": "https",

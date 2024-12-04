@@ -16,12 +16,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "Koofteh.Tabrizi.tcp-max.co.uk.",
-            "port": "3443",
-            "secret": "7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v",
-            "name": "@ProxyMTProto|\ud83c\uddea\ud83c\uddf8"
+            "server": "www.bluenetwork.cloud.",
+            "port": "888",
+            "secret": "FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "name": "@ProxyMTProto|\ud83c\uddeb\ud83c\uddee"
         },
-        "link": "https:\/\/t.me\/proxy?server=Koofteh.Tabrizi.tcp-max.co.uk.&port=3443&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v&@ProxyMTProto|\ud83c\uddea\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=www.bluenetwork.cloud.&port=888&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@ProxyMTProto|\ud83c\uddeb\ud83c\uddee"
     },
     {
         "scheme": "https",
@@ -40,48 +40,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "77.232.38.249",
-            "port": "3598",
-            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-            "name": "@TelMTProto|\ud83c\uddf7\ud83c\uddfa"
-        },
-        "link": "https:\/\/t.me\/proxy?server=77.232.38.249&port=3598&secret=eeNEgYdJvXrFGRMCIMJdCQ&@TelMTProto|\ud83c\uddf7\ud83c\uddfa"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "185.173.37.33",
-            "port": "3598",
-            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-            "name": "@TelMTProto|\ud83c\uddf7\ud83c\uddfa"
-        },
-        "link": "https:\/\/t.me\/proxy?server=185.173.37.33&port=3598&secret=eeNEgYdJvXrFGRMCIMJdCQ&@TelMTProto|\ud83c\uddf7\ud83c\uddfa"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "116.203.197.208",
-            "port": "88",
-            "secret": "eeNEgYdJvXrFGRMCIMJdCQ==",
+            "server": "tivy.io.karnosazeh.ir.rosemassagecenter.com.bornapardaz.net.sayeroshanco.com.second-revolution.ir.takchay.ir.elennar7.ir.nordicsunshine.org.tnex.ir.zhavmusic.com.artin--as.ir.sabkhooneshow.com.sabzehi.com.autokala.shop.parnacontrol.com.tipaxcompany.site",
+            "port": "443",
+            "secret": "3dpBFlW2hP6Hq_WOwiNeKBY=",
             "name": "@MTP_roto|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=116.203.197.208&port=88&secret=eeNEgYdJvXrFGRMCIMJdCQ==&@MTP_roto|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "rmtproto.bitonemitoonam.ir",
-            "port": "88",
-            "secret": "eeNEgYdJvXrFGRMCIMJdCQ==",
-            "name": "@MTP_roto|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=rmtproto.bitonemitoonam.ir&port=88&secret=eeNEgYdJvXrFGRMCIMJdCQ==&@MTP_roto|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=tivy.io.karnosazeh.ir.rosemassagecenter.com.bornapardaz.net.sayeroshanco.com.second-revolution.ir.takchay.ir.elennar7.ir.nordicsunshine.org.tnex.ir.zhavmusic.com.artin--as.ir.sabkhooneshow.com.sabzehi.com.autokala.shop.parnacontrol.com.tipaxcompany.site&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=&@MTP_roto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",

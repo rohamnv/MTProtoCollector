@@ -64,18 +64,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "mizban.soratdarevaalie.shir.asleavaletemadnakon.agehamkhastibokon.netghavisorat.info",
-            "port": "443",
-            "secret": "1603010200010001fc030386e24c3add",
-            "name": "@TelMTProto|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=mizban.soratdarevaalie.shir.asleavaletemadnakon.agehamkhastibokon.netghavisorat.info&port=443&secret=1603010200010001fc030386e24c3add&@TelMTProto|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "Hide.tazan1uf7.info",
             "port": "888",
             "secret": "EEec742282124f04d318551341Ead76457",

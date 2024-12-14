@@ -40,12 +40,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "jooje.koobideh.icmp-connection.co.uk",
+            "server": "kabab.koobideh.icmp-connection.co.uk",
             "port": "3443",
             "secret": "7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v",
             "name": "@ProxyMTProto|\ud83c\uddf1\ud83c\uddf9"
         },
-        "link": "https:\/\/t.me\/proxy?server=jooje.koobideh.icmp-connection.co.uk&port=3443&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v&@ProxyMTProto|\ud83c\uddf1\ud83c\uddf9"
+        "link": "https:\/\/t.me\/proxy?server=kabab.koobideh.icmp-connection.co.uk&port=3443&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v&@ProxyMTProto|\ud83c\uddf1\ud83c\uddf9"
     },
     {
         "scheme": "https",
@@ -94,6 +94,18 @@
             "name": "@TelMTProto|\ud83c\uddec\ud83c\udde7"
         },
         "link": "https:\/\/t.me\/proxy?server=jooje.koobideh.udp-outgoing.co.uk.&port=3443&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v&@TelMTProto|\ud83c\uddec\ud83c\udde7"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "karyabidehloran.ir.mobinak.ir.imensadra.ir.avabasir.com.josti.ir.pdib.ir.gooyasms.ir.iranbc.ir.tde-securi-ty.com.priceactiontrading.ir.volleyballme.ir.buyvi-agraonlinefree.net.mahdayat313.ir.irhvacr.com.chicmarket.ir.parmidahotel.com.salarplaystore.shop",
+            "port": "443",
+            "secret": "3dpBFlW2hP6Hq_WOwiNeKBY=",
+            "name": "@MTP_roto|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=karyabidehloran.ir.mobinak.ir.imensadra.ir.avabasir.com.josti.ir.pdib.ir.gooyasms.ir.iranbc.ir.tde-securi-ty.com.priceactiontrading.ir.volleyballme.ir.buyvi-agraonlinefree.net.mahdayat313.ir.irhvacr.com.chicmarket.ir.parmidahotel.com.salarplaystore.shop&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=&@MTP_roto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",

@@ -4,18 +4,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "49.13.145.80",
-            "port": "443",
-            "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
-            "name": "@GlypeX|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=49.13.145.80&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "176.65.131.3",
             "port": "85",
             "secret": "7gD_AA___wD_9VVf______VmLmtvLS0=",
@@ -280,9 +268,9 @@
             "server": "saman-shimi.ir.iuui.ir.ghoghnoospc.ir.shekambe.ir.rezomehsaz.ir.saffron1torbat.com.zaringiftca-rd.com.ru-bytradingcompany.com.armins-et.ir.coolero.ir.professionalism-tev.ir.nejatrayaneh.com.ebne-masouyeh.com.giyahfanavar.com.4w4.ir.parksahelimoji.online",
             "port": "3444",
             "secret": "ee082082082082082082082082082082087472616e736c6174652e676f6f",
-            "name": "@alephproxy|\ud83c\uddeb\ud83c\uddf7"
+            "name": "@alephproxy|\ud83c\uddee\ud83c\uddf9"
         },
-        "link": "https:\/\/t.me\/proxy?server=saman-shimi.ir.iuui.ir.ghoghnoospc.ir.shekambe.ir.rezomehsaz.ir.saffron1torbat.com.zaringiftca-rd.com.ru-bytradingcompany.com.armins-et.ir.coolero.ir.professionalism-tev.ir.nejatrayaneh.com.ebne-masouyeh.com.giyahfanavar.com.4w4.ir.parksahelimoji.online&port=3444&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f&@alephproxy|\ud83c\uddeb\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=saman-shimi.ir.iuui.ir.ghoghnoospc.ir.shekambe.ir.rezomehsaz.ir.saffron1torbat.com.zaringiftca-rd.com.ru-bytradingcompany.com.armins-et.ir.coolero.ir.professionalism-tev.ir.nejatrayaneh.com.ebne-masouyeh.com.giyahfanavar.com.4w4.ir.parksahelimoji.online&port=3444&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f&@alephproxy|\ud83c\uddee\ud83c\uddf9"
     },
     {
         "scheme": "https",

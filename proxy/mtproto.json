@@ -64,18 +64,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "gboti.chiniclick.click",
-            "port": "443",
-            "secret": "DD1603010200010001fc030386e24c3add",
-            "name": "@TelMTProto|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=gboti.chiniclick.click&port=443&secret=DD1603010200010001fc030386e24c3add&@TelMTProto|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "devoo.devoo.space",
             "port": "443",
             "secret": "DD1603010200010001fc030386e24c3add",

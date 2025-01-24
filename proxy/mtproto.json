@@ -88,6 +88,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "danadanrsh.malakeyi.info",
+            "port": "443",
+            "secret": "1603010200010001fc030386e24c3add",
+            "name": "@TelMTProto|\ud83d\udea9"
+        },
+        "link": "https:\/\/t.me\/proxy?server=danadanrsh.malakeyi.info&port=443&secret=1603010200010001fc030386e24c3add&@TelMTProto|\ud83d\udea9"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "138.199.155.114",
             "port": "7777",
             "secret": "FgMBAgABAAH8AwOG4kw63Q",

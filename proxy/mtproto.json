@@ -160,18 +160,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "rightel.irancell.irib.snapp.digikala.cloud.iranian.irib.ahmadp206.namli--binjzk.info",
-            "port": "666",
-            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-            "name": "@ProxyDaemi|\ud83c\uddfa\ud83c\udde6"
-        },
-        "link": "https:\/\/t.me\/proxy?server=rightel.irancell.irib.snapp.digikala.cloud.iranian.irib.ahmadp206.namli--binjzk.info&port=666&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxyDaemi|\ud83c\uddfa\ud83c\udde6"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "14.102.10.45",
             "port": "888",
             "secret": "eeNEgYdJvXrFGRMCIMJdCQ",

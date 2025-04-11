@@ -64,6 +64,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "156.229.232.97",
+            "port": "443",
+            "secret": "dd1603010200010001fc030386e24c3add",
+            "name": "@TelMTProto|\ud83c\uddfa\ud83c\uddf8"
+        },
+        "link": "https:\/\/t.me\/proxy?server=156.229.232.97&port=443&secret=dd1603010200010001fc030386e24c3add&@TelMTProto|\ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "204.76.203.194",
             "port": "443",
             "secret": "1603010200010001fc030386e24c3add",

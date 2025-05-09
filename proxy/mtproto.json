@@ -28,12 +28,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "JENAB-KHAN.aaaofjosdfh-xy1xutsdg-1tk.info.",
+            "port": "8443",
+            "secret": "DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=JENAB-KHAN.aaaofjosdfh-xy1xutsdg-1tk.info.&port=8443&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "Jocker-moker.garden-workeston.borsandowww.tic.ir.eldorado-feng.info.",
             "port": "443",
             "secret": "7HQighJPBNMYVRNB6tdkVw==",
-            "name": "@Myporoxy|\ud83c\uddeb\ud83c\uddee"
+            "name": "@Myporoxy|\ud83c\uddf7\ud83c\uddf4"
         },
-        "link": "https:\/\/t.me\/proxy?server=Jocker-moker.garden-workeston.borsandowww.tic.ir.eldorado-feng.info.&port=443&secret=7HQighJPBNMYVRNB6tdkVw==&@Myporoxy|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=Jocker-moker.garden-workeston.borsandowww.tic.ir.eldorado-feng.info.&port=443&secret=7HQighJPBNMYVRNB6tdkVw==&@Myporoxy|\ud83c\uddf7\ud83c\uddf4"
     },
     {
         "scheme": "https",
@@ -124,12 +136,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "176.65.136.70",
+            "server": "176.65.136.74",
             "port": "70",
             "secret": "1320PuNyHw_LQKT_Y7XNJw==",
             "name": "@proxyhubs|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=176.65.136.70&port=70&secret=1320PuNyHw_LQKT_Y7XNJw==&@proxyhubs|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=176.65.136.74&port=70&secret=1320PuNyHw_LQKT_Y7XNJw==&@proxyhubs|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "176.65.136.73",
+            "port": "70",
+            "secret": "1320PuNyHw_LQKT_Y7XNJw==",
+            "name": "@proxyhubs|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=176.65.136.73&port=70&secret=1320PuNyHw_LQKT_Y7XNJw==&@proxyhubs|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",

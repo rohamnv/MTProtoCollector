@@ -148,18 +148,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "cloudflare.termiusclient.co.uk.",
-            "port": "9741",
-            "secret": "7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t",
-            "name": "@ProxyMTProto_tel|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=cloudflare.termiusclient.co.uk.&port=9741&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t&@ProxyMTProto_tel|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "87.248.132.2",
             "port": "443",
             "secret": "7otdyWf9v23L9 j4vrzGtv5OemY0WUxtZGg0T3NCcDUwNUFBMDUwMDEwMjAzMDQwNTA2MDcwODA5Li11cGRhdGUxLmFuZHJvaWQuZ29vZ2xlLnN5bmMuaW1hZ2UudG5hYmlzaWJpemlwLmly",

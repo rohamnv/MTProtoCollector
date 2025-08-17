@@ -4,42 +4,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "android.connect.etok.info",
-            "port": "443",
-            "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-            "name": "@ProxyMTProto|\ud83c\uddeb\ud83c\uddee"
-        },
-        "link": "https:\/\/t.me\/proxy?server=android.connect.etok.info&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@ProxyMTProto|\ud83c\uddeb\ud83c\uddee"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "Soltan-works.shoping-kapofat.sorlan-zhiopanig.molcarfect.info",
-            "port": "1919",
-            "secret": "FgMBAgABAAH8AwOG4kw63Q==",
-            "name": "@Myporoxy|\ud83c\udded\ud83c\uddfa"
-        },
-        "link": "https:\/\/t.me\/proxy?server=Soltan-works.shoping-kapofat.sorlan-zhiopanig.molcarfect.info&port=1919&secret=FgMBAgABAAH8AwOG4kw63Q==&@Myporoxy|\ud83c\udded\ud83c\uddfa"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "Darook-world.asemane-nardogray.jomangi-action.balensiaga.info.",
-            "port": "8770",
-            "secret": "1320PuNyHw_LQKT_Y7XNJw==",
-            "name": "@Myporoxy|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=Darook-world.asemane-nardogray.jomangi-action.balensiaga.info.&port=8770&secret=1320PuNyHw_LQKT_Y7XNJw==&@Myporoxy|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "195.201.248.135",
             "port": "9861",
             "secret": "eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
@@ -130,6 +94,18 @@
             "name": "@ProxyDaemi|\ud83c\udde9\ud83c\uddea"
         },
         "link": "https:\/\/t.me\/proxy?server=power.namli--binjzk.info&port=777&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@ProxyDaemi|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "Hamrah-vasl.namli--binjzk.info",
+            "port": "777",
+            "secret": "7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t",
+            "name": "@ProxyDaemi|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=Hamrah-vasl.namli--binjzk.info&port=777&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t&@ProxyDaemi|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",

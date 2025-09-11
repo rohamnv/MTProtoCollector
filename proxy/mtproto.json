@@ -16,18 +16,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "89.251.10.61",
-            "port": "6443",
-            "secret": "ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d",
-            "name": "@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
-        },
-        "link": "https:\/\/t.me\/proxy?server=89.251.10.61&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d&@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "https.www.bahesab.ir-time.conversion-rotwailer.irancell.ir.com-mci.ir.com-co.uk-cilo.com-msn.cloudflare.com-tic.ir-is-filterchi.the-best-proxy.in-the-internet.com-nemidonam-dige-chi.benecisam.co.uk-felan-by.ta-badesh.ir.co.uk.kalivacocie-rotwailer.info.",
             "port": "443",
             "secret": "eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
@@ -55,21 +43,33 @@
             "server": "Hercool-borkar.www.bombo.com.rashkapo.info.",
             "port": "1201",
             "secret": "EEABAzJJlbB8AwOG6Ibn8Q",
-            "name": "@Myporoxy|\ud83c\udde9\ud83c\uddea"
+            "name": "@Myporoxy|\ud83c\uddec\ud83c\udde7"
         },
-        "link": "https:\/\/t.me\/proxy?server=Hercool-borkar.www.bombo.com.rashkapo.info.&port=1201&secret=EEABAzJJlbB8AwOG6Ibn8Q&@Myporoxy|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=Hercool-borkar.www.bombo.com.rashkapo.info.&port=1201&secret=EEABAzJJlbB8AwOG6Ibn8Q&@Myporoxy|\ud83c\uddec\ud83c\udde7"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "brookswashere.space",
+            "server": "PORIA-vali.birjikala.ir",
             "port": "443",
-            "secret": "10dadd1e7c27a20098abb5bf53ca26a8",
+            "secret": "7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t",
             "name": "@TelMTProto|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=brookswashere.space&port=443&secret=10dadd1e7c27a20098abb5bf53ca26a8&@TelMTProto|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=PORIA-vali.birjikala.ir&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t&@TelMTProto|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "PORIA-vali.birjikala.ir",
+            "port": "443",
+            "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+            "name": "@TelMTProto|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=PORIA-vali.birjikala.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d&@TelMTProto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",

@@ -7,9 +7,9 @@
             "server": "Shooka-Koopa.xhivar-nokian.rang-mavar-zhos.info",
             "port": "2040",
             "secret": "EEABAzJJlbB8AwOG6Ibn8Q",
-            "name": "@Lion_MTProto|\ud83c\uddee\ud83c\uddf7"
+            "name": "@Lion_MTProto|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=Shooka-Koopa.xhivar-nokian.rang-mavar-zhos.info&port=2040&secret=EEABAzJJlbB8AwOG6Ibn8Q&@Lion_MTProto|\ud83c\uddee\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=Shooka-Koopa.xhivar-nokian.rang-mavar-zhos.info&port=2040&secret=EEABAzJJlbB8AwOG6Ibn8Q&@Lion_MTProto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -214,5 +214,17 @@
             "name": "@PinkProxy|\ud83c\udde9\ud83c\uddea"
         },
         "link": "https:\/\/t.me\/proxy?server=spain.fortaleza.ir&port=23&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@PinkProxy|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "italy.fortaleza.ir",
+            "port": "23",
+            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+            "name": "@PinkProxy|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=italy.fortaleza.ir&port=23&secret=eeNEgYdJvXrFGRMCIMJdCQ&@PinkProxy|\ud83c\udde9\ud83c\uddea"
     }
 ]

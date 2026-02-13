@@ -4,12 +4,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "49.13.145.80",
+            "server": "49.13.145.61",
             "port": "443",
             "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
             "name": "@GlypeX|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=49.13.145.80&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=49.13.145.61&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -28,12 +28,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "https-cdn-ddns.itdeveloper.info.",
-            "port": "88",
-            "secret": "7nnnAQIAAQAH8AMDhuJMOt0=",
-            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+            "server": "www.roto-best.info",
+            "port": "2083",
+            "secret": "ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d",
+            "name": "@ProxyMTProto|\ud83c\uddec\ud83c\udde7"
         },
-        "link": "https:\/\/t.me\/proxy?server=https-cdn-ddns.itdeveloper.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0=&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=www.roto-best.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d&@ProxyMTProto|\ud83c\uddec\ud83c\udde7"
     },
     {
         "scheme": "https",
@@ -52,12 +52,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "91.199.14.111",
-            "port": "2053",
-            "secret": "dd18caa519413346f34228c7f970eebc29",
-            "name": "@TelMTProto|\ud83c\uddee\ud83c\uddf7"
+            "server": "www.download-fast.co.uk",
+            "port": "443",
+            "secret": "dd10dadd1e7c27a20098abb5bf53ca26a8",
+            "name": "@TelMTProto|\ud83d\udea9"
         },
-        "link": "https:\/\/t.me\/proxy?server=91.199.14.111&port=2053&secret=dd18caa519413346f34228c7f970eebc29&@TelMTProto|\ud83c\uddee\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=www.download-fast.co.uk&port=443&secret=dd10dadd1e7c27a20098abb5bf53ca26a8&@TelMTProto|\ud83d\udea9"
     },
     {
         "scheme": "https",
@@ -76,12 +76,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "74.1.1.52",
-            "port": "65535",
-            "secret": "dd79e344818749bd7ac519130220c25d09",
-            "name": "@MTP_roto|\ud83c\uddfa\ud83c\uddf8"
+            "server": "1.qavi.df.filmne1t.info",
+            "port": "443",
+            "secret": "ProxyQavi____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "name": "@MTP_roto|\ud83c\uddeb\ud83c\uddee"
         },
-        "link": "https:\/\/t.me\/proxy?server=74.1.1.52&port=65535&secret=dd79e344818749bd7ac519130220c25d09&@MTP_roto|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=1.qavi.df.filmne1t.info&port=443&secret=ProxyQavi____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@MTP_roto|\ud83c\uddeb\ud83c\uddee"
     },
     {
         "scheme": "https",

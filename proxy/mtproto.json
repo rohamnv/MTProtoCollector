@@ -4,42 +4,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "65.108.80.13",
-            "port": "443",
-            "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
-            "name": "@GlypeX|\ud83c\uddeb\ud83c\uddee"
-        },
-        "link": "https:\/\/t.me\/proxy?server=65.108.80.13&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\uddeb\ud83c\uddee"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "49.13.145.61",
-            "port": "443",
-            "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
-            "name": "@GlypeX|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=49.13.145.61&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "185.3.200.170",
-            "port": "4055",
-            "secret": "ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D",
-            "name": "@Lion_MTProto|\ud83c\uddee\ud83c\uddf7"
-        },
-        "link": "https:\/\/t.me\/proxy?server=185.3.200.170&port=4055&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D&@Lion_MTProto|\ud83c\uddee\ud83c\uddf7"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "www.uptv443.shop.",
             "port": "8443",
             "secret": "3XnnAQIAAQAH8AMDhuJMOt0=",
@@ -124,12 +88,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "zula.gamelande.info.",
-            "port": "88",
-            "secret": "7nnnAQIAAQAH8AMDhuJMOt0=",
-            "name": "@ProxyHagh|\ud83c\uddeb\ud83c\uddee"
+            "server": "saborbash-vasle.minetor.co.uk",
+            "port": "443",
+            "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+            "name": "@ProxyHagh|\ud83c\uddf8\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=zula.gamelande.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0=&@ProxyHagh|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=saborbash-vasle.minetor.co.uk&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0&@ProxyHagh|\ud83c\uddf8\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -160,24 +124,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "188.212.98.40",
+            "server": "app.x9q.pw",
             "port": "8443",
-            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-            "name": "@ProxyDaemi|\ud83c\uddee\ud83c\uddf7"
+            "secret": "3XnnAQIAAQAH8AMDhuJMOt0=",
+            "name": "@ProxyMTProto_tel|\ud83c\uddec\ud83c\udde7"
         },
-        "link": "https:\/\/t.me\/proxy?server=188.212.98.40&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxyDaemi|\ud83c\uddee\ud83c\uddf7"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "dd.tgproxy.today",
-            "port": "8080",
-            "secret": "dd4cf9d9103e558ddbe1b73a47771c29f7",
-            "name": "@proxyme|\ud83c\uddf1\ud83c\uddfb"
-        },
-        "link": "https:\/\/t.me\/proxy?server=dd.tgproxy.today&port=8080&secret=dd4cf9d9103e558ddbe1b73a47771c29f7&@proxyme|\ud83c\uddf1\ud83c\uddfb"
+        "link": "https:\/\/t.me\/proxy?server=app.x9q.pw&port=8443&secret=3XnnAQIAAQAH8AMDhuJMOt0=&@ProxyMTProto_tel|\ud83c\uddec\ud83c\udde7"
     },
     {
         "scheme": "https",
@@ -187,33 +139,9 @@
             "server": "www.x9q.pw",
             "port": "8443",
             "secret": "3XnnAQIAAQAH8AMDhuJMOt0=",
-            "name": "@ProxyMTProto_tel|\ud83c\uddf8\ud83c\uddea"
+            "name": "@ProxyMTProto_tel|\ud83c\uddee\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=www.x9q.pw&port=8443&secret=3XnnAQIAAQAH8AMDhuJMOt0=&@ProxyMTProto_tel|\ud83c\uddf8\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "wine.limoozin.info",
-            "port": "25565",
-            "secret": "eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-            "name": "@russian_proxy|\ud83d\udea9"
-        },
-        "link": "https:\/\/t.me\/proxy?server=wine.limoozin.info&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@russian_proxy|\ud83d\udea9"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "pretty.dokhtarbandari.info.",
-            "port": "22",
-            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-            "name": "@PinkProxy|\ud83d\udea9"
-        },
-        "link": "https:\/\/t.me\/proxy?server=pretty.dokhtarbandari.info.&port=22&secret=eeNEgYdJvXrFGRMCIMJdCQ&@PinkProxy|\ud83d\udea9"
+        "link": "https:\/\/t.me\/proxy?server=www.x9q.pw&port=8443&secret=3XnnAQIAAQAH8AMDhuJMOt0=&@ProxyMTProto_tel|\ud83c\uddee\ud83c\uddea"
     },
     {
         "scheme": "https",

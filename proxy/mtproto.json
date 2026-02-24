@@ -4,12 +4,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "49.13.145.61",
+            "server": "23.88.51.230",
             "port": "443",
             "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
             "name": "@GlypeX|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=49.13.145.61&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=23.88.51.230&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -28,24 +28,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "3.hajrozbeh.onl",
-            "port": "25565",
-            "secret": "dd79e344818749bd7ac519130220c25d09",
-            "name": "@ProxyMTProto|\ud83d\udea9"
+            "server": "bmw.publiclg.shop.",
+            "port": "8443",
+            "secret": "dd79e7010200010007f0030386e24c3add",
+            "name": "@ProxyMTProto|\ud83c\uddee\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=3.hajrozbeh.onl&port=25565&secret=dd79e344818749bd7ac519130220c25d09&@ProxyMTProto|\ud83d\udea9"
+        "link": "https:\/\/t.me\/proxy?server=bmw.publiclg.shop.&port=8443&secret=dd79e7010200010007f0030386e24c3add&@ProxyMTProto|\ud83c\uddee\ud83c\uddea"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "www.merco-karco.website",
-            "port": "443",
-            "secret": "ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D",
-            "name": "@Myporoxy|\ud83c\uddeb\ud83c\uddee"
+            "server": "russia.publiclg.shop.",
+            "port": "8443",
+            "secret": "dd79e7010200010007f0030386e24c3add",
+            "name": "@ProxyMTProto|\ud83c\uddee\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=www.merco-karco.website&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D&@Myporoxy|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=russia.publiclg.shop.&port=8443&secret=dd79e7010200010007f0030386e24c3add&@ProxyMTProto|\ud83c\uddee\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -64,24 +64,36 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "tajer.lavest.info",
+            "server": "www.merco-karco.website",
             "port": "443",
-            "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-            "name": "@TelMTProto|\ud83c\uddee\ud83c\uddf7"
+            "secret": "ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D",
+            "name": "@Myporoxy|\ud83c\uddeb\ud83c\uddee"
         },
-        "link": "https:\/\/t.me\/proxy?server=tajer.lavest.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@TelMTProto|\ud83c\uddee\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=www.merco-karco.website&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D&@Myporoxy|\ud83c\uddeb\ud83c\uddee"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "paitakht.arasto.info",
+            "server": "ader.dynoporo.com",
             "port": "443",
             "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
             "name": "@TelMTProto|\ud83c\uddee\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=paitakht.arasto.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@TelMTProto|\ud83c\uddee\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=ader.dynoporo.com&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@TelMTProto|\ud83c\uddee\ud83c\uddf7"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "tee.mobemouy.com",
+            "port": "443",
+            "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+            "name": "@TelMTProto|\ud83c\uddee\ud83c\uddf7"
+        },
+        "link": "https:\/\/t.me\/proxy?server=tee.mobemouy.com&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@TelMTProto|\ud83c\uddee\ud83c\uddf7"
     },
     {
         "scheme": "https",
@@ -136,12 +148,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "always.paradiselandi.info",
-            "port": "4515",
-            "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
+            "server": "185.3.200.173",
+            "port": "4455",
+            "secret": "ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D",
             "name": "@proxyhubs|\ud83c\uddee\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=always.paradiselandi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d&@proxyhubs|\ud83c\uddee\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=185.3.200.173&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D&@proxyhubs|\ud83c\uddee\ud83c\uddf7"
     },
     {
         "scheme": "https",
@@ -175,21 +187,21 @@
             "server": "pasta.fetocini.info.",
             "port": "42341",
             "secret": "7nnnAQIAAQAH8AMDhuJMOt0=",
-            "name": "@ProxyMTProto_tel|\ud83c\udde9\ud83c\uddea"
+            "name": "@ProxyMTProto_tel|\ud83c\uddeb\ud83c\uddee"
         },
-        "link": "https:\/\/t.me\/proxy?server=pasta.fetocini.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0=&@ProxyMTProto_tel|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=pasta.fetocini.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0=&@ProxyMTProto_tel|\ud83c\uddeb\ud83c\uddee"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "185.3.200.185",
-            "port": "2053",
-            "secret": "ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D",
+            "server": "185.84.157.102",
+            "port": "9443",
+            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
             "name": "@russian_proxy|\ud83c\uddee\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=185.3.200.185&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D&@russian_proxy|\ud83c\uddee\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=185.84.157.102&port=9443&secret=eeNEgYdJvXrFGRMCIMJdCQ&@russian_proxy|\ud83c\uddee\ud83c\uddf7"
     },
     {
         "scheme": "https",
@@ -208,11 +220,8 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "85.133.194.14",
-            "port": "8443",
-            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-            "name": "@proxy_kafee|\ud83c\udde6\ud83c\uddfa"
+            "name": "@proxy_kafee|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=85.133.194.14&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ&@proxy_kafee|\ud83c\udde6\ud83c\uddfa"
+        "link": "https:\/\/t.me\/proxy?server=&port=&secret=&@proxy_kafee|\ud83c\uddfa\ud83c\uddf8"
     }
 ]

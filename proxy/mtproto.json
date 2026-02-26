@@ -4,12 +4,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "49.13.145.61",
+            "server": "49.13.145.62",
             "port": "443",
             "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
             "name": "@GlypeX|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=49.13.145.61&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=49.13.145.62&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -28,24 +28,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "www.careemian.info.",
-            "port": "2083",
-            "secret": "ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d",
-            "name": "@ProxyMTProto|\ud83c\udde6\ud83c\uddf9"
+            "server": "russia.publiclg.shop.",
+            "port": "8443",
+            "secret": "dd79e7010200010007f0030386e24c3add",
+            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=www.careemian.info.&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d&@ProxyMTProto|\ud83c\udde6\ud83c\uddf9"
+        "link": "https:\/\/t.me\/proxy?server=russia.publiclg.shop.&port=8443&secret=dd79e7010200010007f0030386e24c3add&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "www.40-rooz-gozasht.info.",
-            "port": "2083",
-            "secret": "ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d",
-            "name": "@ProxyMTProto|\ud83c\udde6\ud83c\uddf9"
+            "server": "bmw.publiclg.shop.",
+            "port": "8443",
+            "secret": "dd79e7010200010007f0030386e24c3add",
+            "name": "@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=www.40-rooz-gozasht.info.&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d&@ProxyMTProto|\ud83c\udde6\ud83c\uddf9"
+        "link": "https:\/\/t.me\/proxy?server=bmw.publiclg.shop.&port=8443&secret=dd79e7010200010007f0030386e24c3add&@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
@@ -76,12 +76,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "184.75.209.2",
-            "port": "23",
-            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-            "name": "@TelMTProto|\ud83c\udde8\ud83c\udde6"
+            "server": "khoda.hafez.info",
+            "port": "443",
+            "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+            "name": "@TelMTProto|\ud83c\uddee\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=184.75.209.2&port=23&secret=eeNEgYdJvXrFGRMCIMJdCQ&@TelMTProto|\ud83c\udde8\ud83c\udde6"
+        "link": "https:\/\/t.me\/proxy?server=khoda.hafez.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@TelMTProto|\ud83c\uddee\ud83c\uddf7"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "tavakalta-alalah.info",
+            "port": "443",
+            "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+            "name": "@TelMTProto|\ud83c\uddee\ud83c\uddf7"
+        },
+        "link": "https:\/\/t.me\/proxy?server=tavakalta-alalah.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@TelMTProto|\ud83c\uddee\ud83c\uddf7"
     },
     {
         "scheme": "https",
@@ -115,9 +127,9 @@
             "server": "saborbash-vasle.minetor.co.uk",
             "port": "443",
             "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-            "name": "@ProxyHagh|\ud83c\udde9\ud83c\uddea"
+            "name": "@ProxyHagh|\ud83c\uddee\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=saborbash-vasle.minetor.co.uk&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0&@ProxyHagh|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=saborbash-vasle.minetor.co.uk&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0&@ProxyHagh|\ud83c\uddee\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -220,20 +232,23 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "85.133.194.205",
-            "port": "8443",
-            "secret": "eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "server": "85.133.194.47",
+            "port": "6443",
+            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
             "name": "@proxy_kafee|\ud83c\udde6\ud83c\uddfa"
         },
-        "link": "https:\/\/t.me\/proxy?server=85.133.194.205&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@proxy_kafee|\ud83c\udde6\ud83c\uddfa"
+        "link": "https:\/\/t.me\/proxy?server=85.133.194.47&port=6443&secret=eeNEgYdJvXrFGRMCIMJdCQ&@proxy_kafee|\ud83c\udde6\ud83c\uddfa"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "name": "@proxy_kafee|\ud83c\uddfa\ud83c\uddf8"
+            "server": "85.133.194.49",
+            "port": "6443",
+            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+            "name": "@proxy_kafee|\ud83c\udde6\ud83c\uddfa"
         },
-        "link": "https:\/\/t.me\/proxy?server=&port=&secret=&@proxy_kafee|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=85.133.194.49&port=6443&secret=eeNEgYdJvXrFGRMCIMJdCQ&@proxy_kafee|\ud83c\udde6\ud83c\uddfa"
     }
 ]

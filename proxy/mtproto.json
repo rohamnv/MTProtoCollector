@@ -4,12 +4,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "49.13.145.61",
+            "server": "49.13.145.80",
             "port": "443",
             "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
             "name": "@GlypeX|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=49.13.145.61&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=49.13.145.80&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -40,12 +40,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "3.hajrozbeh.onl",
-            "port": "25565",
-            "secret": "dd79e344818749bd7ac519130220c25d09",
-            "name": "@ProxyMTProto|\ud83d\udea9"
+            "server": "www.careemian.info.",
+            "port": "2083",
+            "secret": "ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d",
+            "name": "@ProxyMTProto|\ud83c\udde6\ud83c\uddf9"
         },
-        "link": "https:\/\/t.me\/proxy?server=3.hajrozbeh.onl&port=25565&secret=dd79e344818749bd7ac519130220c25d09&@ProxyMTProto|\ud83d\udea9"
+        "link": "https:\/\/t.me\/proxy?server=www.careemian.info.&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d&@ProxyMTProto|\ud83c\udde6\ud83c\uddf9"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "www.40-rooz-gozasht.info.",
+            "port": "2083",
+            "secret": "ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d",
+            "name": "@ProxyMTProto|\ud83c\udde6\ud83c\uddf9"
+        },
+        "link": "https:\/\/t.me\/proxy?server=www.40-rooz-gozasht.info.&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d&@ProxyMTProto|\ud83c\udde6\ud83c\uddf9"
     },
     {
         "scheme": "https",
@@ -112,6 +124,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "saborbash-vasle.minetor.co.uk",
+            "port": "443",
+            "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+            "name": "@ProxyHagh|\ud83c\uddf8\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=saborbash-vasle.minetor.co.uk&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0&@ProxyHagh|\ud83c\uddf8\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "dns.gamelande.info.",
             "port": "88",
             "secret": "7nnnAQIAAQAH8AMDhuJMOt0=",
@@ -160,24 +184,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "www.alo-alo.ink.",
+            "server": "www.porteghall.site.",
             "port": "8443",
             "secret": "dd79e7010200010007f0030386e24c3add",
             "name": "@ProxyMTProto_tel|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=www.alo-alo.ink.&port=8443&secret=dd79e7010200010007f0030386e24c3add&@ProxyMTProto_tel|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=www.porteghall.site.&port=8443&secret=dd79e7010200010007f0030386e24c3add&@ProxyMTProto_tel|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "https.alo-alo.ink.",
+            "server": "https.porteghall.site.",
             "port": "8443",
             "secret": "dd79e7010200010007f0030386e24c3add",
-            "name": "@ProxyMTProto_tel|\ud83c\uddfa\ud83c\uddf8"
+            "name": "@ProxyMTProto_tel|\ud83c\uddeb\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=https.alo-alo.ink.&port=8443&secret=dd79e7010200010007f0030386e24c3add&@ProxyMTProto_tel|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=https.porteghall.site.&port=8443&secret=dd79e7010200010007f0030386e24c3add&@ProxyMTProto_tel|\ud83c\uddeb\ud83c\uddf7"
     },
     {
         "scheme": "https",

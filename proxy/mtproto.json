@@ -4,12 +4,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "49.13.145.62",
+            "server": "49.13.145.61",
             "port": "443",
             "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
             "name": "@GlypeX|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=49.13.145.62&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=49.13.145.61&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -112,21 +112,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "bacheh.omad.to.khone.ma.kard.pi-pi.click",
-            "port": "65535",
-            "secret": "7u7u7u7u7u7uHPHXMRAAAAA",
-            "name": "@V2rayng_Fast|\ud83c\uddeb\ud83c\uddee"
+            "server": "185.143.233.120",
+            "port": "2086",
+            "secret": "e9e437c2-1ee5-4f0d-ae09-4bfafc835e4",
+            "name": "@V2rayng_Fast|\ud83c\uddee\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=bacheh.omad.to.khone.ma.kard.pi-pi.click&port=65535&secret=7u7u7u7u7u7uHPHXMRAAAAA&@V2rayng_Fast|\ud83c\uddeb\ud83c\uddee"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "name": "@proxy_kafee|\ud83c\uddfa\ud83c\uddf8"
-        },
-        "link": "https:\/\/t.me\/proxy?server=&port=&secret=&@proxy_kafee|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=185.143.233.120&port=2086&secret=e9e437c2-1ee5-4f0d-ae09-4bfafc835e4&@V2rayng_Fast|\ud83c\uddee\ud83c\uddf7"
     },
     {
         "scheme": "https",

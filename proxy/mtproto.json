@@ -28,12 +28,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "xfs1.gbird.top",
-            "port": "6443",
-            "secret": "ddecad3d673e42dc10cae6fa9bcebcd5f6",
-            "name": "@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
+            "server": "36.141.117.10",
+            "port": "40508",
+            "secret": "feff39bcddb62859ade093fcad935858",
+            "name": "@ProxyMTProto|\ud83c\udde8\ud83c\uddf3"
         },
-        "link": "https:\/\/t.me\/proxy?server=xfs1.gbird.top&port=6443&secret=ddecad3d673e42dc10cae6fa9bcebcd5f6&@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
+        "link": "https:\/\/t.me\/proxy?server=36.141.117.10&port=40508&secret=feff39bcddb62859ade093fcad935858&@ProxyMTProto|\ud83c\udde8\ud83c\uddf3"
     },
     {
         "scheme": "https",

@@ -4,12 +4,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "37.27.8.188",
+            "server": "49.13.145.61",
             "port": "443",
             "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
-            "name": "@GlypeX|\ud83c\uddeb\ud83c\uddee"
+            "name": "@GlypeX|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=37.27.8.188&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=49.13.145.61&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -28,12 +28,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "45.95.234.7",
-            "port": "8443",
-            "secret": "ee79612e72750506811b826baa5b4570",
-            "name": "@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
+            "server": "194.154.29.221",
+            "port": "443",
+            "secret": "993032016aa6265bcd952b0b0a871344",
+            "name": "@ProxyMTProto|\ud83c\udde8\ud83c\udded"
         },
-        "link": "https:\/\/t.me\/proxy?server=45.95.234.7&port=8443&secret=ee79612e72750506811b826baa5b4570&@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
+        "link": "https:\/\/t.me\/proxy?server=194.154.29.221&port=443&secret=993032016aa6265bcd952b0b0a871344&@ProxyMTProto|\ud83c\udde8\ud83c\udded"
     },
     {
         "scheme": "https",

@@ -28,12 +28,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "tg.scroogevpn.com",
-            "port": "443",
-            "secret": "59d307276beb8f4d8a0ed547eb6a461a",
-            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+            "server": "mt.jebance.ru",
+            "port": "8443",
+            "secret": "dd28df1727029aed45d15f3a44d31e7e20",
+            "name": "@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
         },
-        "link": "https:\/\/t.me\/proxy?server=tg.scroogevpn.com&port=443&secret=59d307276beb8f4d8a0ed547eb6a461a&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=mt.jebance.ru&port=8443&secret=dd28df1727029aed45d15f3a44d31e7e20&@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
     },
     {
         "scheme": "https",

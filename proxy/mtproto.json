@@ -28,12 +28,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "proxytelega.store",
+            "server": "150.241.68.225",
             "port": "443",
-            "secret": "5d41402abc4b2a76b9719d911017c592",
-            "name": "@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
+            "secret": "80254608c7ade3a47cfc17c630461e1c",
+            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=proxytelega.store&port=443&secret=5d41402abc4b2a76b9719d911017c592&@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=150.241.68.225&port=443&secret=80254608c7ade3a47cfc17c630461e1c&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",

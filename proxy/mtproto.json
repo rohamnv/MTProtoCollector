@@ -4,12 +4,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "128.140.13.248",
+            "server": "37.27.8.188",
             "port": "443",
             "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
-            "name": "@GlypeX|\ud83c\udde9\ud83c\uddea"
+            "name": "@GlypeX|\ud83c\uddeb\ud83c\uddee"
         },
-        "link": "https:\/\/t.me\/proxy?server=128.140.13.248&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=37.27.8.188&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\uddeb\ud83c\uddee"
     },
     {
         "scheme": "https",
@@ -28,12 +28,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "89.117.61.69",
+            "server": "bestproxy.ink",
             "port": "443",
-            "secret": "ee95fb4a16ad98a42f4ccabc6a0c5cf548636c6f7564666c6172652e636f6d",
-            "name": "@ProxyMTProto|\ud83c\uddeb\ud83c\uddf7"
+            "secret": "ee7d793037a0760186574b0282f2f435e762657374696e6b2e74657374",
+            "name": "@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=89.117.61.69&port=443&secret=ee95fb4a16ad98a42f4ccabc6a0c5cf548636c6f7564666c6172652e636f6d&@ProxyMTProto|\ud83c\uddeb\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=bestproxy.ink&port=443&secret=ee7d793037a0760186574b0282f2f435e762657374696e6b2e74657374&@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
@@ -136,11 +136,11 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "he.67.mtproto.ru",
+            "server": "89.117.60.143",
             "port": "443",
-            "secret": "ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d",
-            "name": "@proxy_kafee|\ud83c\uddeb\ud83c\uddee"
+            "secret": "ee23d959556c441f2002281c835f0255ee636c6f7564666c6172652e636f6d",
+            "name": "@proxy_kafee|\ud83c\uddeb\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=he.67.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d&@proxy_kafee|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=89.117.60.143&port=443&secret=ee23d959556c441f2002281c835f0255ee636c6f7564666c6172652e636f6d&@proxy_kafee|\ud83c\uddeb\ud83c\uddf7"
     }
 ]

@@ -19,21 +19,18 @@
             "server": "prx.today",
             "port": "443",
             "secret": "b3f0c7f6af7dc2dc2e9c80d0d80e8162",
-            "name": "@Lion_MTProto|\ud83c\uddf3\ud83c\uddf1"
+            "name": "@Lion_MTProto|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=prx.today&port=443&secret=b3f0c7f6af7dc2dc2e9c80d0d80e8162&@Lion_MTProto|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=prx.today&port=443&secret=b3f0c7f6af7dc2dc2e9c80d0d80e8162&@Lion_MTProto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "89.117.61.219",
-            "port": "443",
-            "secret": "ee3ce87453813480e671469fe99091473c636c6f7564666c6172652e636f6d",
-            "name": "@ProxyMTProto|\ud83c\uddeb\ud83c\uddf7"
+            "name": "@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=89.117.61.219&port=443&secret=ee3ce87453813480e671469fe99091473c636c6f7564666c6172652e636f6d&@ProxyMTProto|\ud83c\uddeb\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=&port=&secret=&@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
@@ -136,11 +133,11 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "89.117.60.143",
+            "server": "65.109.16.146",
             "port": "443",
-            "secret": "ee23d959556c441f2002281c835f0255ee636c6f7564666c6172652e636f6d",
-            "name": "@proxy_kafee|\ud83c\uddeb\ud83c\uddf7"
+            "secret": "dd104462821249bd7ac519130220c25d09",
+            "name": "@proxy_kafee|\ud83c\uddeb\ud83c\uddee"
         },
-        "link": "https:\/\/t.me\/proxy?server=89.117.60.143&port=443&secret=ee23d959556c441f2002281c835f0255ee636c6f7564666c6172652e636f6d&@proxy_kafee|\ud83c\uddeb\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=65.109.16.146&port=443&secret=dd104462821249bd7ac519130220c25d09&@proxy_kafee|\ud83c\uddeb\ud83c\uddee"
     }
 ]

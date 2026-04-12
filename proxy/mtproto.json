@@ -4,12 +4,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "128.140.13.248",
+            "server": "49.13.145.61",
             "port": "443",
             "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
             "name": "@GlypeX|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=128.140.13.248&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=49.13.145.61&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -28,12 +28,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "proxy-sosavpn.duckdns.org",
-            "port": "8443",
-            "secret": "f5a36ceadd9bbedd919fbd9f1c9387dd",
+            "server": "proxlet.site",
+            "port": "443",
+            "secret": "8d969eef6ecad3c29a3a629280e686cf",
             "name": "@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=proxy-sosavpn.duckdns.org&port=8443&secret=f5a36ceadd9bbedd919fbd9f1c9387dd&@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=proxlet.site&port=443&secret=8d969eef6ecad3c29a3a629280e686cf&@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",
@@ -88,12 +88,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "204.168.238.0",
+            "server": "204.168.250.138",
             "port": "443",
             "secret": "b3f0c7f6af7dc2dc2e9c80d0d80e8162",
-            "name": "@proxyhubs|\ud83c\uddeb\ud83c\uddee"
+            "name": "@proxyhubs|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=204.168.238.0&port=443&secret=b3f0c7f6af7dc2dc2e9c80d0d80e8162&@proxyhubs|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=204.168.250.138&port=443&secret=b3f0c7f6af7dc2dc2e9c80d0d80e8162&@proxyhubs|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",

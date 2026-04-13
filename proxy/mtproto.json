@@ -4,12 +4,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "49.13.145.61",
+            "server": "49.13.145.62",
             "port": "443",
             "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
             "name": "@GlypeX|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=49.13.145.61&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=49.13.145.62&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -28,12 +28,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "my.ciaowner.lol",
+            "server": "proxytop.space",
             "port": "443",
-            "secret": "ee08e08c9ea9937d982d8d864406a0cddb6d792e6369616f776e65722e6c6f6c",
-            "name": "@ProxyMTProto|\ud83c\uddf8\ud83c\uddea"
+            "secret": "7d793037a0760186574b0282f2f435e7",
+            "name": "@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=my.ciaowner.lol&port=443&secret=ee08e08c9ea9937d982d8d864406a0cddb6d792e6369616f776e65722e6c6f6c&@ProxyMTProto|\ud83c\uddf8\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=proxytop.space&port=443&secret=7d793037a0760186574b0282f2f435e7&@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",

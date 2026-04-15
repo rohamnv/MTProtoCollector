@@ -28,12 +28,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "bestproxy.ink",
+            "server": "oneproxys.best",
             "port": "443",
-            "secret": "eed68360458af63073bac1394e8c7a48da6265737470726f78792e696e6b",
+            "secret": "eed68360458af63073bac1394e8c7a48da6f6e6570726f7879732e62657374",
             "name": "@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=bestproxy.ink&port=443&secret=eed68360458af63073bac1394e8c7a48da6265737470726f78792e696e6b&@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=oneproxys.best&port=443&secret=eed68360458af63073bac1394e8c7a48da6f6e6570726f7879732e62657374&@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",

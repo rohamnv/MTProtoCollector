@@ -28,12 +28,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "31.220.78.146",
-            "port": "443",
-            "secret": "ee981c79d929c9fbf81ef6d233940a538a636c6f7564666c6172652e636f6d",
-            "name": "@ProxyMTProto|\ud83c\uddeb\ud83c\uddf7"
+            "server": "proxy-sosavpn1.duckdns.org",
+            "port": "8443",
+            "secret": "bfb77f1c4bf8a5c16eb5a3c83954ce69",
+            "name": "@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
         },
-        "link": "https:\/\/t.me\/proxy?server=31.220.78.146&port=443&secret=ee981c79d929c9fbf81ef6d233940a538a636c6f7564666c6172652e636f6d&@ProxyMTProto|\ud83c\uddeb\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=proxy-sosavpn1.duckdns.org&port=8443&secret=bfb77f1c4bf8a5c16eb5a3c83954ce69&@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
     },
     {
         "scheme": "https",

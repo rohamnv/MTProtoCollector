@@ -28,12 +28,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "prx.today",
+            "server": "34.51.247.46",
             "port": "443",
-            "secret": "eeb3f0c7f6af7dc2dc2e9c80d0d80e81627a65726f2e6c6f63616c",
-            "name": "@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
+            "secret": "dddcd652f1b40bcee93adb08ac4df47c46",
+            "name": "@ProxyMTProto|\ud83c\uddf8\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=prx.today&port=443&secret=eeb3f0c7f6af7dc2dc2e9c80d0d80e81627a65726f2e6c6f63616c&@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=34.51.247.46&port=443&secret=dddcd652f1b40bcee93adb08ac4df47c46&@ProxyMTProto|\ud83c\uddf8\ud83c\uddea"
     },
     {
         "scheme": "https",

@@ -28,12 +28,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "openway.forum",
+            "server": "clickproxy.online",
             "port": "443",
-            "secret": "eed68360458af63073bac1394e8c7a48da6f70656e7761792e666f72756d",
-            "name": "@ProxyMTProto|\ud83c\uddf1\ud83c\uddfb"
+            "secret": "ee79612e7275e8e3100d7adf36efa572",
+            "name": "@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=openway.forum&port=443&secret=eed68360458af63073bac1394e8c7a48da6f70656e7761792e666f72756d&@ProxyMTProto|\ud83c\uddf1\ud83c\uddfb"
+        "link": "https:\/\/t.me\/proxy?server=clickproxy.online&port=443&secret=ee79612e7275e8e3100d7adf36efa572&@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",
@@ -124,8 +124,11 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "name": "@proxy_kafee|\ud83c\uddfa\ud83c\uddf8"
+            "server": "49.12.79.244",
+            "port": "443",
+            "secret": "dd104462821249bd7ac519130220c25d09",
+            "name": "@proxy_kafee|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=&port=&secret=&@proxy_kafee|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=49.12.79.244&port=443&secret=dd104462821249bd7ac519130220c25d09&@proxy_kafee|\ud83c\udde9\ud83c\uddea"
     }
 ]

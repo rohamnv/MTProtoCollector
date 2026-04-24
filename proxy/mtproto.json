@@ -4,12 +4,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "49.13.145.61",
+            "server": "128.140.13.248",
             "port": "443",
             "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
             "name": "@GlypeX|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=49.13.145.61&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=128.140.13.248&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -28,12 +28,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "anarchy.click",
+            "server": "24mt04.mtproxygram.pro",
             "port": "443",
-            "secret": "ee7118c792a6da15636cc9753bf90cfc2d62726f777365722e79616e6465782e636f6d",
-            "name": "@ProxyMTProto|\ud83c\udde8\ud83c\udded"
+            "secret": "eeb9478b1b5090c520be20ced93d0e816a62726f777365722e79616e6465782e636f6d",
+            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=anarchy.click&port=443&secret=ee7118c792a6da15636cc9753bf90cfc2d62726f777365722e79616e6465782e636f6d&@ProxyMTProto|\ud83c\udde8\ud83c\udded"
+        "link": "https:\/\/t.me\/proxy?server=24mt04.mtproxygram.pro&port=443&secret=eeb9478b1b5090c520be20ced93d0e816a62726f777365722e79616e6465782e636f6d&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",

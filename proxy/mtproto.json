@@ -28,12 +28,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "concord.servervless.ru",
+            "server": "fast.telehelp.top",
             "port": "443",
-            "secret": "ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275",
+            "secret": "eea767a7821af88983492880c0752e434264726976652e676f6f676c652e636f6d",
             "name": "@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=concord.servervless.ru&port=443&secret=ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275&@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=fast.telehelp.top&port=443&secret=eea767a7821af88983492880c0752e434264726976652e676f6f676c652e636f6d&@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",

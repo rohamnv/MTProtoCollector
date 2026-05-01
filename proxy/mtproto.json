@@ -4,12 +4,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "49.13.145.61",
+            "server": "37.27.8.188",
             "port": "443",
             "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
-            "name": "@GlypeX|\ud83c\udde9\ud83c\uddea"
+            "name": "@GlypeX|\ud83c\uddeb\ud83c\uddee"
         },
-        "link": "https:\/\/t.me\/proxy?server=49.13.145.61&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=37.27.8.188&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\uddeb\ud83c\uddee"
     },
     {
         "scheme": "https",
@@ -28,12 +28,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "concord.servervless.ru",
+            "server": "5.231.56.165",
             "port": "443",
-            "secret": "ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275",
-            "name": "@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
+            "secret": "7c81481b8a23812706cbd96fb2c8b0b8",
+            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=concord.servervless.ru&port=443&secret=ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275&@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=5.231.56.165&port=443&secret=7c81481b8a23812706cbd96fb2c8b0b8&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",

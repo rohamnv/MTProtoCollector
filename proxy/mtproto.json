@@ -28,12 +28,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "s.qcold.online",
-            "port": "853",
-            "secret": "eea65967b55fdb60e0b3ac69aa46abc3de732e71636f6c642e6f6e6c696e65",
-            "name": "@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
+            "server": "gproxy-sosavpn.duckdns.org",
+            "port": "8443",
+            "secret": "bfb77f1c4bf8a5c16eb5a3d93954ce69",
+            "name": "@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
         },
-        "link": "https:\/\/t.me\/proxy?server=s.qcold.online&port=853&secret=eea65967b55fdb60e0b3ac69aa46abc3de732e71636f6c642e6f6e6c696e65&@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=gproxy-sosavpn.duckdns.org&port=8443&secret=bfb77f1c4bf8a5c16eb5a3d93954ce69&@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
     },
     {
         "scheme": "https",

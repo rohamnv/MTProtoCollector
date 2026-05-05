@@ -28,12 +28,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "etherealvpn.uk",
+            "server": "wow.etherealvpn.uk",
             "port": "443",
-            "secret": "ee47e15341ad5117d1bc6d0b4b20d177187777772e6d6963726f736f66742e636f6d",
-            "name": "@ProxyMTProto|\ud83c\uddf8\ud83c\uddea"
+            "secret": "eeafb51059be4e6d73ec385bf2235406fa706574726f766963682e7275",
+            "name": "@ProxyMTProto|\ud83c\uddef\ud83c\uddf5"
         },
-        "link": "https:\/\/t.me\/proxy?server=etherealvpn.uk&port=443&secret=ee47e15341ad5117d1bc6d0b4b20d177187777772e6d6963726f736f66742e636f6d&@ProxyMTProto|\ud83c\uddf8\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=wow.etherealvpn.uk&port=443&secret=eeafb51059be4e6d73ec385bf2235406fa706574726f766963682e7275&@ProxyMTProto|\ud83c\uddef\ud83c\uddf5"
     },
     {
         "scheme": "https",

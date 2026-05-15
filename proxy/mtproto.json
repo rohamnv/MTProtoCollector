@@ -28,12 +28,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "147.45.79.141",
+            "server": "147.45.79.137",
             "port": "443",
-            "secret": "eefcd14518ed9188502624ba211abbebb4766b2e636f6d",
+            "secret": "eea90f801141cbf3154444b618e56f7976766b2e636f6d",
             "name": "@ProxyMTProto|\ud83c\uddf8\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=147.45.79.141&port=443&secret=eefcd14518ed9188502624ba211abbebb4766b2e636f6d&@ProxyMTProto|\ud83c\uddf8\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=147.45.79.137&port=443&secret=eea90f801141cbf3154444b618e56f7976766b2e636f6d&@ProxyMTProto|\ud83c\uddf8\ud83c\uddea"
     },
     {
         "scheme": "https",

@@ -16,12 +16,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "femboy.arixo.shop",
+            "server": "swekitty.grittytarantula.sbs",
             "port": "443",
-            "secret": "eec11798ab008831b474066c9e1ebf5c99617669746f2e7275",
-            "name": "@ProxyMTProto|\ud83c\uddf1\ud83c\uddfb"
+            "secret": "ee51cb8137d7fc9ac4ef73184f45d6208e7377656b697474792e677269747479746172616e74756c612e736273",
+            "name": "@ProxyMTProto|\ud83c\uddeb\ud83c\uddee"
         },
-        "link": "https:\/\/t.me\/proxy?server=femboy.arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c99617669746f2e7275&@ProxyMTProto|\ud83c\uddf1\ud83c\uddfb"
+        "link": "https:\/\/t.me\/proxy?server=swekitty.grittytarantula.sbs&port=443&secret=ee51cb8137d7fc9ac4ef73184f45d6208e7377656b697474792e677269747479746172616e74756c612e736273&@ProxyMTProto|\ud83c\uddeb\ud83c\uddee"
     },
     {
         "scheme": "https",

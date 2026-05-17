@@ -16,12 +16,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "132.243.213.216",
+            "server": "proxy.nexorabust.ru",
             "port": "443",
-            "secret": "eea3f41c6c1aefca10e6a8c366158ae25d706574726f766963682e7275",
-            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+            "secret": "dd1cebd1dd4f8441f8af01177087ee9918",
+            "name": "@ProxyMTProto|\ud83c\uddf1\ud83c\uddfb"
         },
-        "link": "https:\/\/t.me\/proxy?server=132.243.213.216&port=443&secret=eea3f41c6c1aefca10e6a8c366158ae25d706574726f766963682e7275&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=proxy.nexorabust.ru&port=443&secret=dd1cebd1dd4f8441f8af01177087ee9918&@ProxyMTProto|\ud83c\uddf1\ud83c\uddfb"
     },
     {
         "scheme": "https",

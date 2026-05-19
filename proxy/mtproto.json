@@ -16,12 +16,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "mtp.webvirt.cloud",
+            "server": "rn.quantadc.online",
             "port": "443",
-            "secret": "ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564",
-            "name": "@ProxyMTProto|\ud83c\uddf5\ud83c\uddf1"
+            "secret": "ee526f153573c253113db8d64dfd69baf0726e2e7175616e746164632e6f6e6c696e65",
+            "name": "@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
         },
-        "link": "https:\/\/t.me\/proxy?server=mtp.webvirt.cloud&port=443&secret=ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564&@ProxyMTProto|\ud83c\uddf5\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=rn.quantadc.online&port=443&secret=ee526f153573c253113db8d64dfd69baf0726e2e7175616e746164632e6f6e6c696e65&@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
     },
     {
         "scheme": "https",

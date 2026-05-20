@@ -16,12 +16,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "w.arixo.shop",
+            "server": "103.110.64.213",
             "port": "443",
-            "secret": "eec11798ab008831b474066c9e1ebf5c97617669746f2e7275",
-            "name": "@ProxyMTProto|\ud83c\uddec\ud83c\uddf7"
+            "secret": "eecb034302623216896e2887011d848d6479616e6465782e7275",
+            "name": "@ProxyMTProto|\ud83c\uddeb\ud83c\uddee"
         },
-        "link": "https:\/\/t.me\/proxy?server=w.arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c97617669746f2e7275&@ProxyMTProto|\ud83c\uddec\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=103.110.64.213&port=443&secret=eecb034302623216896e2887011d848d6479616e6465782e7275&@ProxyMTProto|\ud83c\uddeb\ud83c\uddee"
     },
     {
         "scheme": "https",

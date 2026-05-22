@@ -16,12 +16,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "menf.proxytg.space",
+            "server": "hotmtpro2.duckdns.org",
             "port": "443",
-            "secret": "eed29c1cae809aca8bdbf6ce5c5918141c6d61782e7275",
-            "name": "@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
+            "secret": "7kBjzU5SbZqTzIJZZEf4Tvp3d3cubWljcm9zb2Z0LmNvbQ",
+            "name": "@ProxyMTProto|\ud83c\udde8\ud83c\uddfe"
         },
-        "link": "https:\/\/t.me\/proxy?server=menf.proxytg.space&port=443&secret=eed29c1cae809aca8bdbf6ce5c5918141c6d61782e7275&@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
+        "link": "https:\/\/t.me\/proxy?server=hotmtpro2.duckdns.org&port=443&secret=7kBjzU5SbZqTzIJZZEf4Tvp3d3cubWljcm9zb2Z0LmNvbQ&@ProxyMTProto|\ud83c\udde8\ud83c\uddfe"
     },
     {
         "scheme": "https",

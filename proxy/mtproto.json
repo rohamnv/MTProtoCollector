@@ -16,12 +16,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "another.life.mambabot.net",
-            "port": "4515",
-            "secret": "eec485b564c0178c338d8bf4f3f17539c4613234382e652e616b616d61692e6e6574",
-            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+            "server": "62.60.228.136",
+            "port": "443",
+            "secret": "ee4fdb47b5c93d2b46c0c155b90106418379616e6465782e7275",
+            "name": "@ProxyMTProto|\ud83c\uddeb\ud83c\uddee"
         },
-        "link": "https:\/\/t.me\/proxy?server=another.life.mambabot.net&port=4515&secret=eec485b564c0178c338d8bf4f3f17539c4613234382e652e616b616d61692e6e6574&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=62.60.228.136&port=443&secret=ee4fdb47b5c93d2b46c0c155b90106418379616e6465782e7275&@ProxyMTProto|\ud83c\uddeb\ud83c\uddee"
     },
     {
         "scheme": "https",
@@ -94,18 +94,6 @@
             "name": "@russian_proxy|\ud83c\uddee\ud83c\uddf7"
         },
         "link": "https:\/\/t.me\/proxy?server=185.84.157.6&port=10&secret=FgMBAgABAAH8AxOG4kw63Q==&@russian_proxy|\ud83c\uddee\ud83c\uddf7"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "95.217.235.33",
-            "port": "443",
-            "secret": "dd104462821249bd7ac519130220c25d09",
-            "name": "@V2rayng_Fast|\ud83c\uddeb\ud83c\uddee"
-        },
-        "link": "https:\/\/t.me\/proxy?server=95.217.235.33&port=443&secret=dd104462821249bd7ac519130220c25d09&@V2rayng_Fast|\ud83c\uddeb\ud83c\uddee"
     },
     {
         "scheme": "https",

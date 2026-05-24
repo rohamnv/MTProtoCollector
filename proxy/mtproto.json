@@ -16,12 +16,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "www.tproxy.ink",
-            "port": "443",
-            "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
-            "name": "@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
+            "server": "g.proxytg.space",
+            "port": "8443",
+            "secret": "eedc41bbb2f33136f9e5f58f258e2f5a8a672e70726f787974672e7370616365",
+            "name": "@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
         },
-        "link": "https:\/\/t.me\/proxy?server=www.tproxy.ink&port=443&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275&@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=g.proxytg.space&port=8443&secret=eedc41bbb2f33136f9e5f58f258e2f5a8a672e70726f787974672e7370616365&@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
     },
     {
         "scheme": "https",

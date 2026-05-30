@@ -16,12 +16,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "89.23.108.23",
+            "server": "77.73.131.117",
             "port": "443",
-            "secret": "ee4b23e33a9d1122e920a81aef2172b5e87477697463682e7476",
-            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+            "secret": "ee97500cee8fa3bf21435e27cf09de8b72766b2e636f6d",
+            "name": "@ProxyMTProto|\ud83c\udde6\ud83c\uddf9"
         },
-        "link": "https:\/\/t.me\/proxy?server=89.23.108.23&port=443&secret=ee4b23e33a9d1122e920a81aef2172b5e87477697463682e7476&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=77.73.131.117&port=443&secret=ee97500cee8fa3bf21435e27cf09de8b72766b2e636f6d&@ProxyMTProto|\ud83c\udde6\ud83c\uddf9"
     },
     {
         "scheme": "https",
@@ -76,24 +76,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "parest.opt-meli.info",
-            "port": "155",
-            "secret": "dd104462821249bd7ac519130220c25d09",
-            "name": "@proxyhubs|\ud83c\uddeb\ud83c\uddee"
+            "server": "noron.parsdict.casa",
+            "port": "25565",
+            "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+            "name": "@proxyhubs|\ud83d\udea9"
         },
-        "link": "https:\/\/t.me\/proxy?server=parest.opt-meli.info&port=155&secret=dd104462821249bd7ac519130220c25d09&@proxyhubs|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=noron.parsdict.casa&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@proxyhubs|\ud83d\udea9"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "87.248.129.12",
+            "server": "87.248.129.52",
             "port": "15",
-            "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+            "secret": "ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d",
             "name": "@ProxyDaemi|\ud83c\uddee\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=87.248.129.12&port=15&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@ProxyDaemi|\ud83c\uddee\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=87.248.129.52&port=15&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d&@ProxyDaemi|\ud83c\uddee\ud83c\uddf7"
     },
     {
         "scheme": "https",
@@ -112,12 +112,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "connect.tproxy.store",
-            "port": "8443",
-            "secret": "dd79e7010200010007f0030386e24c3add",
-            "name": "@ProxyMTProto_tel|\ud83c\uddec\ud83c\udde7"
+            "server": "live.tproxy.info",
+            "port": "15",
+            "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
+            "name": "@ProxyMTProto_tel|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=connect.tproxy.store&port=8443&secret=dd79e7010200010007f0030386e24c3add&@ProxyMTProto_tel|\ud83c\uddec\ud83c\udde7"
+        "link": "https:\/\/t.me\/proxy?server=live.tproxy.info&port=15&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d&@ProxyMTProto_tel|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
@@ -136,12 +136,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "proxy.speedbreaker.info",
+            "server": "iran.protocolsix.info.",
             "port": "25565",
             "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
             "name": "@PinkProxy|\ud83d\udea9"
         },
-        "link": "https:\/\/t.me\/proxy?server=proxy.speedbreaker.info&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@PinkProxy|\ud83d\udea9"
+        "link": "https:\/\/t.me\/proxy?server=iran.protocolsix.info.&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@PinkProxy|\ud83d\udea9"
     },
     {
         "scheme": "https",

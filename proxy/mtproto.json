@@ -16,12 +16,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "ad.canvas-proxy.com",
+            "server": "evening.nolags.pw",
             "port": "443",
-            "secret": "eeb7f10957fcefd87d5e8c336fc9851d8d61642e63616e7661732d70726f78792e636f6d",
-            "name": "@ProxyMTProto|\ud83c\uddf2\ud83c\udde9"
+            "secret": "dd29b3afb209c4427676b4c43eecb7f556",
+            "name": "@ProxyMTProto|\ud83c\uddf8\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=ad.canvas-proxy.com&port=443&secret=eeb7f10957fcefd87d5e8c336fc9851d8d61642e63616e7661732d70726f78792e636f6d&@ProxyMTProto|\ud83c\uddf2\ud83c\udde9"
+        "link": "https:\/\/t.me\/proxy?server=evening.nolags.pw&port=443&secret=dd29b3afb209c4427676b4c43eecb7f556&@ProxyMTProto|\ud83c\uddf8\ud83c\uddea"
     },
     {
         "scheme": "https",

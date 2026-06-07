@@ -16,12 +16,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "ice.nolags.pw",
+            "server": "legend.chunkycorp.shop",
             "port": "443",
-            "secret": "dd53df731994a1368ad70990c9a88794dd",
-            "name": "@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
+            "secret": "eef7fa42938dc7150beba27c0cc0df2f1d617669746f2e7275",
+            "name": "@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
         },
-        "link": "https:\/\/t.me\/proxy?server=ice.nolags.pw&port=443&secret=dd53df731994a1368ad70990c9a88794dd&@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=legend.chunkycorp.shop&port=443&secret=eef7fa42938dc7150beba27c0cc0df2f1d617669746f2e7275&@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
     },
     {
         "scheme": "https",

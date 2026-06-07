@@ -16,12 +16,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "dash.flowstreamhub.site",
+            "server": "51.250.71.16",
             "port": "443",
-            "secret": "eee5860e3a92504e57496b5748749921d3646173682e666c6f7773747265616d6875622e73697465",
+            "secret": "ee83664d92de321661cc33e6839bbeef1e617669746f2e7275",
             "name": "@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
         },
-        "link": "https:\/\/t.me\/proxy?server=dash.flowstreamhub.site&port=443&secret=eee5860e3a92504e57496b5748749921d3646173682e666c6f7773747265616d6875622e73697465&@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
+        "link": "https:\/\/t.me\/proxy?server=51.250.71.16&port=443&secret=ee83664d92de321661cc33e6839bbeef1e617669746f2e7275&@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
     },
     {
         "scheme": "https",
@@ -64,12 +64,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "mtp-roto.road-digger.info.",
-            "port": "2053",
-            "secret": "7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v",
-            "name": "@MTP_roto|\ud83c\udde9\ud83c\uddea"
+            "server": "172.65.105.152",
+            "port": "25565",
+            "secret": "FgMBAgABAAH8AxOG4kw63Q",
+            "name": "@MTP_roto|\ud83d\udea9"
         },
-        "link": "https:\/\/t.me\/proxy?server=mtp-roto.road-digger.info.&port=2053&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v&@MTP_roto|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=172.65.105.152&port=25565&secret=FgMBAgABAAH8AxOG4kw63Q&@MTP_roto|\ud83d\udea9"
     },
     {
         "scheme": "https",
@@ -136,12 +136,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "qavifor.hq-parametr.ir",
-            "port": "4455",
-            "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+            "server": "www.alp-drtop.info",
+            "port": "443",
+            "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
             "name": "@russian_proxy|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=qavifor.hq-parametr.ir&port=4455&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@russian_proxy|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=www.alp-drtop.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b&@russian_proxy|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -160,11 +160,8 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "65.108.29.211",
-            "port": "4455",
-            "secret": "dd104462821249bd7ac519130220c25d09",
-            "name": "@proxy_kafee|\ud83c\uddeb\ud83c\uddee"
+            "name": "@proxy_kafee|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=65.108.29.211&port=4455&secret=dd104462821249bd7ac519130220c25d09&@proxy_kafee|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=&port=&secret=&@proxy_kafee|\ud83c\uddfa\ud83c\uddf8"
     }
 ]

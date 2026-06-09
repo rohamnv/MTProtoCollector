@@ -4,24 +4,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "91.217.166.19",
-            "port": "20",
-            "secret": "3RYDAQIAAQAB_AMDhuJMOt0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-            "name": "@Lion_MTProto|\ud83c\uddee\ud83c\uddf7"
+            "server": "172.65.100.05",
+            "port": "25565",
+            "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+            "name": "@Lion_MTProto|\ud83d\udea9"
         },
-        "link": "https:\/\/t.me\/proxy?server=91.217.166.19&port=20&secret=3RYDAQIAAQAB_AMDhuJMOt0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@Lion_MTProto|\ud83c\uddee\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=172.65.100.05&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@Lion_MTProto|\ud83d\udea9"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "www.vingardium.co.uk.",
+            "server": "84.252.131.153",
             "port": "443",
-            "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ==",
-            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+            "secret": "ee00819c04340f17fabac7f07b463f8b15617669746f2e7275",
+            "name": "@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
         },
-        "link": "https:\/\/t.me\/proxy?server=www.vingardium.co.uk.&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ==&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=84.252.131.153&port=443&secret=ee00819c04340f17fabac7f07b463f8b15617669746f2e7275&@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
     },
     {
         "scheme": "https",
@@ -76,24 +76,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "172.65.100.05",
-            "port": "25565",
-            "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-            "name": "@ProxyHagh|\ud83d\udea9"
-        },
-        "link": "https:\/\/t.me\/proxy?server=172.65.100.05&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@ProxyHagh|\ud83d\udea9"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "176.65.138.99",
             "port": "8443",
             "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
             "name": "@proxyhubs|\ud83c\udde9\ud83c\uddea"
         },
         "link": "https:\/\/t.me\/proxy?server=176.65.138.99&port=8443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@proxyhubs|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "91.217.166.19",
+            "port": "20",
+            "secret": "3RYDAQIAAQAB_AMDhuJMOt0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "name": "@ProxyDaemi|\ud83c\uddee\ud83c\uddf7"
+        },
+        "link": "https:\/\/t.me\/proxy?server=91.217.166.19&port=20&secret=3RYDAQIAAQAB_AMDhuJMOt0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@ProxyDaemi|\ud83c\uddee\ud83c\uddf7"
     },
     {
         "scheme": "https",
@@ -142,6 +142,18 @@
             "name": "@russian_proxy|\ud83d\udea9"
         },
         "link": "https:\/\/t.me\/proxy?server=172.65.104.042&port=25565&secret=7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20&@russian_proxy|\ud83d\udea9"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "mercedes.nine-gear.info",
+            "port": "25565",
+            "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+            "name": "@PinkProxy|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=mercedes.nine-gear.info&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@PinkProxy|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",

@@ -40,12 +40,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "157.90.227.27",
+            "server": "65.109.255.219",
             "port": "85",
             "secret": "FgMBAgABAAH8AxOG4kw63Q",
-            "name": "@TelMTProto|\ud83c\udde9\ud83c\uddea"
+            "name": "@TelMTProto|\ud83c\uddeb\ud83c\uddee"
         },
-        "link": "https:\/\/t.me\/proxy?server=157.90.227.27&port=85&secret=FgMBAgABAAH8AxOG4kw63Q&@TelMTProto|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=65.109.255.219&port=85&secret=FgMBAgABAAH8AxOG4kw63Q&@TelMTProto|\ud83c\uddeb\ud83c\uddee"
     },
     {
         "scheme": "https",
@@ -67,9 +67,9 @@
             "server": "wan.asiaadomainsshatelhamrahaval.co.uk.",
             "port": "443",
             "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==",
-            "name": "@MTP_roto|\ud83c\uddeb\ud83c\uddee"
+            "name": "@MTP_roto|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=wan.asiaadomainsshatelhamrahaval.co.uk.&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==&@MTP_roto|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=wan.asiaadomainsshatelhamrahaval.co.uk.&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==&@MTP_roto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -172,11 +172,11 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "hamrah.v.erancell.fogh.meli.pr.melifot.help.pw-sasani1.ir.",
+            "server": "167.233.159.224",
             "port": "8443",
-            "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d",
+            "secret": "dd79e344818749bd7ac519130220c25d09",
             "name": "@proxy_kafee|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=hamrah.v.erancell.fogh.meli.pr.melifot.help.pw-sasani1.ir.&port=8443&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d&@proxy_kafee|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=167.233.159.224&port=8443&secret=dd79e344818749bd7ac519130220c25d09&@proxy_kafee|\ud83c\udde9\ud83c\uddea"
     }
 ]

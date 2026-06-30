@@ -16,12 +16,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "cdn.kvakzon.top",
+            "server": "b8b8e0dc.etherealvpn.uk",
             "port": "443",
-            "secret": "ee4c9e204ef11de2b7b95e7ea9d11d284063646e2e6b76616b7a6f6e2e746f70",
-            "name": "@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
+            "secret": "ee4ebde057e85dd06ed515c11267d2cde234646338626537362e657468657265616c76706e2e756b",
+            "name": "@ProxyMTProto|\ud83c\uddfa\ud83c\udde6"
         },
-        "link": "https:\/\/t.me\/proxy?server=cdn.kvakzon.top&port=443&secret=ee4c9e204ef11de2b7b95e7ea9d11d284063646e2e6b76616b7a6f6e2e746f70&@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
+        "link": "https:\/\/t.me\/proxy?server=b8b8e0dc.etherealvpn.uk&port=443&secret=ee4ebde057e85dd06ed515c11267d2cde234646338626537362e657468657265616c76706e2e756b&@ProxyMTProto|\ud83c\uddfa\ud83c\udde6"
     },
     {
         "scheme": "https",

@@ -148,18 +148,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "khob.nisti.co.uk",
-            "port": "8880",
-            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-            "name": "@ProxyDaemi|\ud83c\uddee\ud83c\uddf7"
-        },
-        "link": "https:\/\/t.me\/proxy?server=khob.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxyDaemi|\ud83c\uddee\ud83c\uddf7"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "bad.nisti.co.uk",
             "port": "8880",
             "secret": "EERighJJvXrFGRMCIMJdCQ==",
@@ -238,17 +226,5 @@
             "name": "@russian_proxy|\ud83c\uddee\ud83c\uddf7"
         },
         "link": "https:\/\/t.me\/proxy?server=ipv6.ssh-sec.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@russian_proxy|\ud83c\uddee\ud83c\uddf7"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "45.15.159.66",
-            "port": "1",
-            "secret": "ee100d65580c769f110f712c234c3141687777772e636c6f7564666c6172652e636f6d",
-            "name": "@YekoyekVpn|\ud83c\uddf7\ud83c\uddfa"
-        },
-        "link": "https:\/\/t.me\/proxy?server=45.15.159.66&port=1&secret=ee100d65580c769f110f712c234c3141687777772e636c6f7564666c6172652e636f6d&@YekoyekVpn|\ud83c\uddf7\ud83c\uddfa"
     }
 ]

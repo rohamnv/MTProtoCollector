@@ -28,48 +28,36 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "www2.acientirani-uor4.ir",
+            "server": "fleethop.online",
             "port": "443",
-            "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d",
-            "name": "@ProxyMTProto|\ud83c\uddeb\ud83c\uddee"
+            "secret": "eee5cdbc9072c35bb42691c201135f0fdd666c656574686f702e6f6e6c696e65",
+            "name": "@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
         },
-        "link": "https:\/\/t.me\/proxy?server=www2.acientirani-uor4.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d&@ProxyMTProto|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=fleethop.online&port=443&secret=eee5cdbc9072c35bb42691c201135f0fdd666c656574686f702e6f6e6c696e65&@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "lazeyka-1.getvelora.space",
-            "port": "443",
-            "secret": "ee3f558f47bfd43aafffc4c8bb4ffc0130706574726f766963682e7275",
-            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=lazeyka-1.getvelora.space&port=443&secret=ee3f558f47bfd43aafffc4c8bb4ffc0130706574726f766963682e7275&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "Ghavi.nofex-co.info",
-            "port": "8770",
+            "server": "folox.jeyko-max.info.",
+            "port": "44300",
             "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
             "name": "@Myporoxy|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=Ghavi.nofex-co.info&port=8770&secret=eeNEgYdJvXrFGRMCIMJdCQ&@Myporoxy|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=folox.jeyko-max.info.&port=44300&secret=eeNEgYdJvXrFGRMCIMJdCQ&@Myporoxy|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "valla.chemidonam.co.uk",
-            "port": "443",
+            "server": "Red.dada-co.info",
+            "port": "2040",
             "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
             "name": "@Myporoxy|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=valla.chemidonam.co.uk&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ&@Myporoxy|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=Red.dada-co.info&port=2040&secret=eeNEgYdJvXrFGRMCIMJdCQ&@Myporoxy|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -112,6 +100,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "main.muffinnoliershatelcomingsoon.co.uk.",
+            "port": "443",
+            "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==",
+            "name": "@MTP_roto|\ud83c\uddeb\ud83c\uddee"
+        },
+        "link": "https:\/\/t.me\/proxy?server=main.muffinnoliershatelcomingsoon.co.uk.&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==&@MTP_roto|\ud83c\uddeb\ud83c\uddee"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "salahodine.ir.",
             "port": "443",
             "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
@@ -124,12 +124,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "wan.asiaadomainsshatelhamrahaval.co.uk.",
+            "server": "www2.acientirani-uor4.ir",
             "port": "443",
-            "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==",
-            "name": "@MTP_roto|\ud83c\uddeb\ud83c\uddee"
+            "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d",
+            "name": "@ProxyHagh|\ud83c\uddeb\ud83c\uddee"
         },
-        "link": "https:\/\/t.me\/proxy?server=wan.asiaadomainsshatelhamrahaval.co.uk.&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==&@MTP_roto|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=www2.acientirani-uor4.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d&@ProxyHagh|\ud83c\uddeb\ud83c\uddee"
     },
     {
         "scheme": "https",

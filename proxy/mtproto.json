@@ -67,9 +67,9 @@
             "server": "team.fast--pro.co.uk.",
             "port": "443",
             "secret": "3RBEYoISSb16xRkTAiDCXQk=",
-            "name": "@TelMTProto|\ud83c\udde9\ud83c\uddea"
+            "name": "@TelMTProto|\ud83c\uddeb\ud83c\uddee"
         },
-        "link": "https:\/\/t.me\/proxy?server=team.fast--pro.co.uk.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk=&@TelMTProto|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=team.fast--pro.co.uk.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk=&@TelMTProto|\ud83c\uddeb\ud83c\uddee"
     },
     {
         "scheme": "https",
@@ -127,9 +127,9 @@
             "server": "iranian-cheetah.ir.the-nice-mtproto.info.",
             "port": "88",
             "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
-            "name": "@ProxyHagh|\ud83c\uddeb\ud83c\uddee"
+            "name": "@ProxyHagh|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=iranian-cheetah.ir.the-nice-mtproto.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d&@ProxyHagh|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=iranian-cheetah.ir.the-nice-mtproto.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d&@ProxyHagh|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",

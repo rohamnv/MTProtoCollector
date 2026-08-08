@@ -16,12 +16,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "cdn2.legacdn.com",
+            "server": "mtp.webvirt.cloud",
             "port": "443",
-            "secret": "ee4746d4ee69873099c9d0abd64656c261706574726f766963682e7275",
-            "name": "@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
+            "secret": "ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564",
+            "name": "@ProxyMTProto|\ud83c\uddf5\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=cdn2.legacdn.com&port=443&secret=ee4746d4ee69873099c9d0abd64656c261706574726f766963682e7275&@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
+        "link": "https:\/\/t.me\/proxy?server=mtp.webvirt.cloud&port=443&secret=ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564&@ProxyMTProto|\ud83c\uddf5\ud83c\uddf1"
     },
     {
         "scheme": "https",

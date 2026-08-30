@@ -55,9 +55,9 @@
             "server": "Hub.whiteblox.org.",
             "port": "80",
             "secret": "3RbZ3hNtxAbJ6L5BQipx2_s=",
-            "name": "@TelMTProto|\ud83c\uddeb\ud83c\uddee"
+            "name": "@TelMTProto|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=Hub.whiteblox.org.&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s=&@TelMTProto|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=Hub.whiteblox.org.&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s=&@TelMTProto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -67,9 +67,9 @@
             "server": "rich.whiteblox.org.",
             "port": "80",
             "secret": "3RbZ3hNtxAbJ6L5BQipx2_s=",
-            "name": "@TelMTProto|\ud83c\uddeb\ud83c\uddee"
+            "name": "@TelMTProto|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=rich.whiteblox.org.&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s=&@TelMTProto|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=rich.whiteblox.org.&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s=&@TelMTProto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -178,6 +178,18 @@
             "name": "@ProxyMTProto_tel|\ud83c\udde9\ud83c\uddea"
         },
         "link": "https:\/\/t.me\/proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxyMTProto_tel|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "me.foltmeingop.co.uk",
+            "port": "8880",
+            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+            "name": "@proxyy|\ud83c\uddee\ud83c\uddf7"
+        },
+        "link": "https:\/\/t.me\/proxy?server=me.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ&@proxyy|\ud83c\uddee\ud83c\uddf7"
     },
     {
         "scheme": "https",

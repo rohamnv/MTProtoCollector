@@ -19,9 +19,33 @@
             "server": "ir.speed.finecooking.info",
             "port": "443",
             "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-            "name": "@Lion_MTProto|\ud83c\uddee\ud83c\uddf7"
+            "name": "@Lion_MTProto|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=ir.speed.finecooking.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b&@Lion_MTProto|\ud83c\uddee\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=ir.speed.finecooking.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b&@Lion_MTProto|\ud83c\uddf3\ud83c\uddf1"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "help.meow0.co.uk",
+            "port": "22",
+            "secret": "dd79e344818749bd7ac519130220c25d09",
+            "name": "@ProxyMTProto|\ud83d\udea9"
+        },
+        "link": "https:\/\/t.me\/proxy?server=help.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09&@ProxyMTProto|\ud83d\udea9"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "ssh.meow0.co.uk",
+            "port": "22",
+            "secret": "dd79e344818749bd7ac519130220c25d09",
+            "name": "@ProxyMTProto|\ud83d\udea9"
+        },
+        "link": "https:\/\/t.me\/proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09&@ProxyMTProto|\ud83d\udea9"
     },
     {
         "scheme": "https",
@@ -139,21 +163,33 @@
             "server": "marginal-plum.server-space52.info",
             "port": "88",
             "secret": "7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20=",
-            "name": "@ProxyDaemi|\ud83c\uddee\ud83c\uddf7"
+            "name": "@ProxyDaemi|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=marginal-plum.server-space52.info&port=88&secret=7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20=&@ProxyDaemi|\ud83c\uddee\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=marginal-plum.server-space52.info&port=88&secret=7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20=&@ProxyDaemi|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "mt.joumalanet.co.uk",
+            "server": "melodic-green.server-space52.info",
+            "port": "88",
+            "secret": "7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20=",
+            "name": "@ProxyDaemi|\ud83c\uddec\ud83c\udde7"
+        },
+        "link": "https:\/\/t.me\/proxy?server=melodic-green.server-space52.info&port=88&secret=7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20=&@ProxyDaemi|\ud83c\uddec\ud83c\udde7"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "mt.best-moz.info",
             "port": "25565",
-            "secret": "ee1603010200010001fc030386e24c3add617669746f2e7275",
+            "secret": "dd79e344818749bd7ac519130220c25d09",
             "name": "@ProxyMTProto_tel|\ud83d\udea9"
         },
-        "link": "https:\/\/t.me\/proxy?server=mt.joumalanet.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add617669746f2e7275&@ProxyMTProto_tel|\ud83d\udea9"
+        "link": "https:\/\/t.me\/proxy?server=mt.best-moz.info&port=25565&secret=dd79e344818749bd7ac519130220c25d09&@ProxyMTProto_tel|\ud83d\udea9"
     },
     {
         "scheme": "https",
@@ -202,18 +238,6 @@
             "name": "@russian_proxy|\ud83c\uddee\ud83c\uddf7"
         },
         "link": "https:\/\/t.me\/proxy?server=irogallery.golgoli1.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ&@russian_proxy|\ud83c\uddee\ud83c\uddf7"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "qadim.zhigool.co.uk",
-            "port": "22",
-            "secret": "EERighJJvXrFGRMCIMJdCQ",
-            "name": "@PinkProxy|\ud83d\udea9"
-        },
-        "link": "https:\/\/t.me\/proxy?server=qadim.zhigool.co.uk&port=22&secret=EERighJJvXrFGRMCIMJdCQ&@PinkProxy|\ud83d\udea9"
     },
     {
         "scheme": "https",
